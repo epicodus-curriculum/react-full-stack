@@ -99,11 +99,11 @@ lessons:
     day: sunday
     type: lesson
   - title: Firestore Survey, Quiz of Choice (Three-Day Project) - Part 2
-    filename: 1a_classwork_firestore_survey_quiz_of_choice.md
+    filename: 1a_classwork_firestore_survey_quiz_of_choice_2.md
     day: monday
     type: exercise
   - title: Firestore Survey, Quiz of Choice (Three-Day Project) - Part 3
-    filename: 1a_classwork_firestore_survey_quiz_of_choice.md
+    filename: 1a_classwork_firestore_survey_quiz_of_choice_3.md
     day: tuesday
     type: exercise
   - title: Applying for Jobs

@@ -16,11 +16,11 @@ lessons:
     day: sunday
     type: lesson
   - title: Choose Your Own Adventure (One-Week Project) - Part 2
-    filename: 3a_classwork_choose_your_own_adventure.md
+    filename: 3a_classwork_choose_your_own_adventure_2.md
     day: tuesday
     type: exercise
   - title: Choose Your Own Adventure (One-Week Project) - Part 3
-    filename: 3a_classwork_choose_your_own_adventure.md
+    filename: 3a_classwork_choose_your_own_adventure_3.md
     day: wednesday
     type: exercise
   - title: React with NoSQL Independent Project
