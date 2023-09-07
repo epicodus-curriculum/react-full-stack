@@ -63,7 +63,7 @@ The capstone proposal:
 
 
 
-**If you finish developing the [minimum viable product (MVP)](capstone-planning-the-minimum-viable-product) with time to spare, what will you work on next? Describe these features here: Be specific.**
+**If you finish developing the [minimum viable product (MVP)](https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) with time to spare, what will you work on next? Describe these features here: Be specific.**
 
 
 * 
