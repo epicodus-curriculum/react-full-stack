@@ -1,0 +1,122 @@
+section: React with Redux
+order: 6
+repo: react-full-stack
+directory: 6_react-with-redux
+lessons:
+  - title: React with Redux Objectives
+    filename: 0a_react_with_redux_objectives.md
+    day: weekend
+    type: lesson
+  - title: Introduction to Redux
+    filename: 0b_introduction_to_redux.md
+    day: weekend
+    type: lesson
+  - title: Setting Up Our First Project
+    filename: 0c_setting_up_our_first_project.md
+    day: weekend
+    type: lesson
+  - title: Writing Our First Redux Test
+    filename: 0d_writing_our_first_redux_test.md
+    day: weekend
+    type: lesson
+  - title: Writing Our Second Redux Test
+    filename: 0e_writing_our_second_redux_test.md
+    day: weekend
+    type: lesson
+  - title: Writing Our Third Redux Test
+    filename: 0f_writing_our_third_redux_test.md
+    day: weekend
+    type: lesson
+  - title: Anatomy of a Reducer
+    filename: 0g_anatomy_of_a_reducer.md
+    day: weekend
+    type: lesson
+  - title: The Redux Store
+    filename: 0h_the_redux_store.md
+    day: weekend
+    type: lesson
+  - title: Redux Store Review
+    filename: 0i_redux_store_review.md
+    day: weekend
+    type: lesson
+  - title: Introduction to React Redux Library
+    filename: 0j_introduction_to_react_redux_library.md
+    day: weekend
+    type: lesson
+  - title: 'Adding Redux to React: Part 1'
+    filename: 0k_adding_redux_to_react_part_1.md
+    day: weekend
+    type: lesson
+  - title: 'Adding Redux to React: Part 2'
+    filename: 0l_adding_redux_to_react_part_2.md
+    day: weekend
+    type: lesson
+  - title: 'Adding Redux to React: Part 3'
+    filename: 0m_adding_redux_to_react_part_3.md
+    day: weekend
+    type: lesson
+  - title: Capstone Sign-Up Reminder
+    filename: 0n_capstone_proposal_reminder.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #15'
+    filename: 1_week_17_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #15'
+    filename: 2_week_17_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Redux Help Queue, Project Refactor
+    filename: 1a_classwork_redux_help_queue_project_refactor.md
+    day: sunday
+    type: exercise
+  - title: Forum, Word Puzzle, Tic Tac Toe (Multi-Day Project)
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: monday
+    type: exercise
+  - title: Combining Redux Reducers
+    filename: 1b_combining_reducers_in_redux.md
+    day: monday
+    type: lesson
+  - title: Adding Combined Reducers to React
+    filename: 1c_adding_our_combined_reducer_to_react.md
+    day: monday
+    type: lesson
+  - title: Forum, Word Puzzle, Tic Tac Toe (Multi-Day Project)
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: tuesday
+    type: exercise
+  - title: Building a React Application with Redux From Scratch
+    filename: 1d_building_a_react_redux_application_ground_up.md
+    day: tuesday
+    type: lesson
+  - title: Applying for Jobs
+    filename: classwork_applying_for_jobs.md
+    day: wednesday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Technical Interview Practice: React and Redux'
+    filename: 4a_technical_interview_practice_react_and_redux.md
+    day: wednesday
+    type: lesson
+  - title: Action Creators
+    filename: 2b_action_creators.md
+    day: wednesday
+    type: lesson
+  - title: Action Constants
+    filename: 2c_action_constants.md
+    day: wednesday
+    type: lesson
+  - title: Understanding Stereotype Threat
+    filename: understanding_stereotype_threat.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack

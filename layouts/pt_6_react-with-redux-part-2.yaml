@@ -1,0 +1,41 @@
+section: React with Redux Part 2
+order: 7
+repo: react-full-stack
+directory: 7_react-with-redux-part-2
+lessons:
+  - title: Forum, Word Puzzle, Tic Tac Toe (Multi-Day Project)
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: sunday
+    type: exercise
+  - title: Introduction to date-fns
+    filename: 3b_introduction_to_datefns.md
+    day: sunday
+    type: lesson
+  - title: Component Lifecycle Methods
+    filename: 3c_component_lifecycle_and_methods.md
+    day: sunday
+    type: lesson
+  - title: Adding Wait Time to the Queue
+    filename: 3d_adding_wait_time_to_the_queue.md
+    day: sunday
+    type: lesson
+  - title: Adding Wait Time to the Queue Part 2
+    filename: 3e_adding_wait_time_to_the_queue_part_2.md
+    day: sunday
+    type: lesson
+  - title: Forum, Word Puzzle, Tic Tac Toe (Multi-Day Project)
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: monday
+    type: exercise
+  - title: Forum, Word Puzzle, Tic Tac Toe (Multi-Day Project)
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: tuesday
+    type: exercise
+  - title: Forum, Word Puzzle, Tic Tac Toe (Multi-Day Project)
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: wednesday
+    type: exercise
+  - title: React with Redux Independent Project
+    filename: 5a_classwork_react_with_redux_independent_project.md
+    day: thursday
+    type: exercise

@@ -1,0 +1,67 @@
+There's a lot to get used to when getting started at Epicodus, so we're hoping to make it easier with this short reference of common terminology that we use to describe the structure of our courses, classes, and assignments. This list is in alphabetical order.
+
+## [Glossary of Epicodus Terminology](#glossary-of-epicodus-terminology)
+
+---
+
+**Career review.** Also known as a "CR", your career services advisor will review the project you complete for each Internship course assignment as your "career review". This term is specific to Epicodus, and we use "career review" and "project" interchangeably. 
+
+**Career Services Info Session.** Also known as a "Info Session", this is a meeting with your career services advisor(s) to discuss career services topics and coursework. These meetings happen periodically, one or more times in a course.
+
+**Code review.** Also known as a "CR", a code review is the activity of someone other than yourself reviewing your code for mistakes. In the tech industry, code reviews are commonly used for quality assurance. Your co-worker or manager will review your logic, your code structure, and ensure that you are following best practice and convention. At Epicodus, your coding instructor will review the independent project you submit for each course section as your "code review". We use "independent project" and "code review" interchangeably. In some exercises, we invite you to do _peer_ code reviews, in which you and your pair reviews another pair's code. 
+
+**Cohort.** This refers to the group of students who are signed up in the same program. We often distinguish cohorts by their start date, like the "May cohort" or "October cohort". We also talk about the "upper cohort" and "lower cohort", distinguishing the cohort who is farther along ("upper") from the cohort who is earlier ("lower") in the program.
+
+**Course.** This is a topic that is comprised of multiple sub-topics. The course will correspond to the language, framework, or general topic that will be covered. Every track at Epicodus has multiple courses to teach you full stack web development. For example, the _Ruby and React_ track has 5 courses: 
+
+  * Introduction to Programming
+  * Intermediate JavaScript
+  * Ruby and Rails
+  * React
+  * Internship
+
+**Course section.** Also known as "section", this is one section of a course. For part-time students, course sections last two or three weeks, and for full-time students, course sections last one week. For example, [the Introduction to Programming course](https://www.learnhowtoprogram.com/introduction-to-programming) has three course sections: 
+
+  * Git, HTML, and CSS
+  * JavaScript and jQuery
+  * Arrays and Looping
+
+**CR.** This stands for "code review" or "career review" -- any project that you do for your classwork at Epicodus.
+
+**DEI.** DEI is an acronym for “Diversity, Equity, and Inclusion”. Scroll down further to review other entries that describe the DEI curriculum at Epicodus. 
+
+**DEI lessons.** DEI lessons range from topics on diversity and equity to preventing microaggressions. These lessons are integrated into the technical curriculum, appearing once in a section, or every other section. These give you the opportunity to learn more in depth about a particular subject. These are always listed as homework. [Visit this link to see all of the DEI lessons](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons).
+
+**DEI reflective assignments.** Also referred to as “reflections”, these are written assignments as part of the DEI that are tied to every DEI lesson. Students are given a prompt on the same topic as the DEI lesson and asked to write a reflection on the prompt. Engaging with this curriculum is optional, but highly encouraged. By actively learning about DEI concepts, we can better work together to include students from all backgrounds and engage with social change to improve diversity in Tech. Read about these assignments in the [Diversity, Equity, and Inclusion Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/dei-reflective-assignments) lesson.
+
+**DEI workshops.** Also referred to as “workshops”, these are quarterly events facilitated by Epicodus staff to discuss specific topics within diversity, equity, and inclusion. These workshops include a short presentation and a series of breakout sessions in which students group up and discuss prompts. The nature of these workshops is explained when we introduce the DEI curriculum in the lesson [Making Epicodus an Inclusive Place](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/making-epicodus-an-inclusive-place).
+
+**Dev team.** Short for "development team", this is the assigned team that students work with every week. Enterprise companies, especially larger ones, often assign their developers to dev teams. These teams work together to build features and fix bugs. At Epicodus, students check in with their dev team at the start and end of class, and pair with someone new from their dev team every class session.
+
+**Diversity, Equity, and Inclusion (DEI) curriculum.** Also known as the DEI curriculum, at Epicodus this includes workshops, lessons, and reflective assignments. The goal is to actively learn about DEI concepts so we can better work together to include students from all backgrounds and engage with personal and social change to improve diversity in Tech and our future workplaces. Students learn about this curriculum in the lesson [Making Epicodus an Inclusive Place](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/making-epicodus-an-inclusive-place).
+
+**Epicenter.** Located at [www.epicodus.epicenter.com](https://epicenter.epicodus.com/), this is where you will find your account with Epicodus. You can view your courses, independent projects grades and prompts, attendance, transcript, payments, and more in Epicenter.
+
+**Journaling.** Epicodus has a Journaling curriculum that helps students develop a thorough understanding of their strengths, weaknesses, and passions. When graduates have this understanding, we find they are more successful in navigating the job search process and finding satisfying employment. In most course sections, students are given a new journaling prompt to write a response to. Engaging with the Journaling curriculum is optional, but highly encouraged! Students learn about this curriculum in the [Journaling at Epicodus](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/homework-journaling-at-epicodus) lesson in the very first course section. Optionally, you can review all of the journal prompts in advance in the [Journaling Curriculum](https://www.learnhowtoprogram.com/journaling-curriculum/journal-prompts) track on learnhowtoprogram.com.
+
+**Pre-work.** This comprises the lessons that must be read before the start of each course.
+
+**Reflections.** Also known as “DEI reflective assignments”, these are written assignments as part of the DEI curriculum that are tied to every DEI lesson. Students are given a prompt on the same topic as the DEI lesson and asked to write a reflection on the prompt. Engaging with this curriculum is optional, but highly encouraged. By actively learning about DEI concepts, we can better work together to include students from all backgrounds and engage with social change to improve diversity in Tech. Read about these assignments in the [Diversity, Equity, and Inclusion Reflective Assignments](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/dei-reflective-assignments) lesson.
+
+**Resub or resubmission.** When you need to "do a resub" or "turn in a resubmission", it means your advisor or instructor has reviewed your independent project and determined that it is not passing all objectives and needs more work. Your advisor or instructor will ask you to work on certain objectives and "resubmit your project" for an additional review by a due date.   
+
+**Retrospective.** This is the end-of-class meeting with your dev team to talk about how the class session went. Retrospective meetings are an Agile development technique where dev teams reflect on the past in order to improve the future by discussing what worked, what didn't, and why. Typically these meetings happen every two to four weeks, depending on the company. At Epicodus, we use this time to share code, do group peer code reviews, talk about questions, or chit chat in general.
+
+**Section.** Also known as "course section", this is one section of a course. For part-time students, course sections last two-three weeks, and for full-time students, course sections last one week. For an example, see "course section" above.
+
+**Scrum.** This is an umbrella term that refers to a short meeting with your cohort and instructor or your dev team. At Scrum everyone checks in, shares announcements, and discusses questions. At Epicodus, you'll have two Scrum meetings regularly: 
+
+  * **Cohort Scrum** with your teacher and your entire cohort, often at the start of class.
+  * **Dev Team Scrum** just with your dev team. 
+
+**Student handbook.** This is the main reference for all information about Epicodus's philosophy, structure, course requirements, facilities, and policies. Epicodus staff will regularly cite the student handbook's policies, and send you information from the student handbook. If you can't find the information you are looking for, ask any Epicodus staff for help. The [student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#the-big-picture) is located in the "Getting Started with Epicodus" pre-work attached to every course. 
+
+**Track.** This refers to the program that you are signed up for at Epicodus. There are full-time and part-time tracks, and there are tracks differentiated by course of study, like the C# and React (Part-Time) track or the Ruby and React track. You can find all available tracks by going to [www.learnhowtoprogram.com/tracks](https://www.learnhowtoprogram.com/tracks).
+
+**Workshops.**  Also referred to as “DEI workshops”, these are quarterly events facilitated by Epicodus staff to discuss specific topics within diversity, equity, and inclusion. These workshops include a short presentation and a series of breakout sessions in which students group up and discuss prompts. The nature of these workshops is explained when we introduce the DEI curriculum in the lesson [Making Epicodus an Inclusive Place](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/making-epicodus-an-inclusive-place).
+

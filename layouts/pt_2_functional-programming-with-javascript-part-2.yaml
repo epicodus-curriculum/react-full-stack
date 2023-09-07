@@ -1,0 +1,29 @@
+section: Functional Programming with JavaScript Part 2
+order: 3
+repo: react-full-stack
+directory: 3_functional-programming-with-javascript-part-2
+lessons:
+  - title: Build Your Own RPG, Haiku Checker (Multi-day Project)
+    filename: 3a_classwork_rpg_haiku_checker.md
+    day: sunday
+    type: exercise
+  - title: 'Whiteboard Practice: Project Euler'
+    filename: 3b_classwork_whiteboard_project_euler.md
+    day: sunday
+    type: exercise
+  - title: Build Your Own RPG, Haiku Checker (Multi-day Project)
+    filename: 3a_classwork_rpg_haiku_checker.md
+    day: monday
+    type: exercise
+  - title: Build Your Own RPG, Haiku Checker (Multi-day Project)
+    filename: 3a_classwork_rpg_haiku_checker.md
+    day: tuesday
+    type: exercise
+  - title: Build Your Own RPG, Haiku Checker (Multi-day Project)
+    filename: 3a_classwork_rpg_haiku_checker.md
+    day: wednesday
+    type: exercise
+  - title: Functional Programming with JavaScript Independent Project
+    filename: 5a_classwork_functional_programming_independent_project.md
+    day: thursday
+    type: exercise

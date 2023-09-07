@@ -1,0 +1,169 @@
+section: Functional Programming with JavaScript
+order: 2
+repo: react-full-stack
+directory: 2_functional-programming-with-javascript
+lessons:
+  - title: Functional Programming with JavaScript Objectives
+    filename: 0a_functional_programming_objectives.md
+    day: weekend
+    type: lesson
+  - title: Introduction to Functional Programming
+    filename: 0b_introduction_to_functional_programming.md
+    day: weekend
+    type: lesson
+  - title: Testing Functional Code
+    filename: 0ba_testing_functional_code.md
+    day: weekend
+    type: lesson
+  - title: Using Node in the Command Line
+    filename: 0c_using_node_in_the_command_line.md
+    day: weekend
+    type: lesson
+  - title: Immutability
+    filename: 0cb_immutability.md
+    day: weekend
+    type: lesson
+  - title: Imperative Versus Declarative Programming
+    filename: 0cc_imperative_vs_declarative.md
+    day: weekend
+    type: lesson
+  - title: Pure Functions
+    filename: 0d_pure_functions.md
+    day: weekend
+    type: lesson
+  - title: First Class Citizens
+    filename: 0e_first_class_citizens.md
+    day: weekend
+    type: lesson
+  - title: Closures
+    filename: 0f_closures.md
+    day: weekend
+    type: lesson
+  - title: Currying
+    filename: 0g_currying.md
+    day: weekend
+    type: lesson
+  - title: Map, Reduce and Filter
+    filename: map_reduce_and_filter.md
+    day: weekend
+    type: lesson
+  - title: Recursion
+    filename: 0ga_recursion.md
+    day: weekend
+    type: lesson
+  - title: Capstone Timeline, Deadlines, and Brainstorming Homework
+    filename: 0mb_capstone_project_brainstorming_homework.md
+    day: weekend
+    type: lesson
+  - title: 'Capstone Planning: The Minimum Viable Product'
+    filename: 0n_the_minimum_viable_product.md
+    day: weekend
+    type: lesson
+  - title: Whiteboard Independent Project Overview
+    filename: 1_whiteboard_session_overview.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Whiteboard Evaluation Rubric
+    filename: 2_evaluation_rubric_overview.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: A Guide to Whiteboarding
+    filename: 3_how_to_whiteboard.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Being a Good Interviewer
+    filename: 4_being_an_interviewer.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Giving Constructive Feedback
+    filename: 5_giving_constructive_feedback.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: monday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: Coin Counter, Sieve
+    filename: 1a_classwork_coin_counter_sieve.md
+    day: monday
+    type: exercise
+  - title: 'Whiteboard Practice: Closures'
+    filename: 1b_classwork_whiteboard_closure_practice.md
+    day: monday
+    type: exercise
+  - title: 'Whiteboard Practice: Recursion'
+    filename: 1c_classwork_whiteboard_recursion_practice.md
+    day: monday
+    type: exercise
+  - title: The Problems of Classical Inheritance
+    filename: 0h_the_problems_of_classical_inheritance.md
+    day: monday
+    type: lesson
+  - title: Spread Operator
+    filename: 0i_spread_operator.md
+    day: monday
+    type: lesson
+  - title: Composition
+    filename: 0k_composition.md
+    day: monday
+    type: lesson
+  - title: State
+    filename: 0ka_state.md
+    day: monday
+    type: lesson
+  - title: Storing State in Closures
+    filename: 0kb_storing_state_in_closures.md
+    day: monday
+    type: lesson
+  - title: Building a Functional Application (Part 1)
+    filename: 0l_building_a_functional_application.md
+    day: monday
+    type: lesson
+  - title: Building a Functional Application (Part 2)
+    filename: 0m_building_a_functional_application_part_2.md
+    day: monday
+    type: lesson
+  - title: Addressing Implicit Bias
+    filename: addressing_implicit_bias.md
+    day: monday
+    type: lesson
+    repo: DEI-full-stack
+  - title: Power Plant, Project Euler
+    filename: 2a_classwork_power_plant_project_euler.md
+    day: tuesday
+    type: exercise
+  - title: 'Whiteboard Practice: Composition'
+    filename: 2b_classwork_whiteboard_composition.md
+    day: tuesday
+    type: exercise
+  - title: 'Further Exploration: Creating Deep Clones'
+    filename: 0ia_creating_deep_clones.md
+    day: tuesday
+    type: lesson
+  - title: Build Your Own RPG, Haiku Checker (Two-day Project)
+    filename: 3a_classwork_rpg_haiku_checker.md
+    day: wednesday
+    type: exercise
+  - title: 'Whiteboard Practice: Project Euler'
+    filename: 3b_classwork_whiteboard_project_euler.md
+    day: wednesday
+    type: exercise
+  - title: 'Technical Interview Preparation: Functional Programming'
+    filename: 4a_classwork_technical_interview_prep_functional_programming.md
+    day: thursday
+    type: exercise
+  - title: Epicodus Job Board
+    filename: epicodus_job_board_classwork.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Functional Programming with JavaScript Independent Project
+    filename: 5a_classwork_functional_programming_independent_project.md
+    day: friday
+    type: exercise

@@ -1,0 +1,43 @@
+section: Independent Capstone
+order: 7
+repo: react-full-stack
+directory: 7_independent-capstone
+lessons:
+  - title: Independent Capstone Project Week Overview
+    filename: 0a_independent_capstone_project_week_overview.md
+    day: weekend
+    type: lesson
+  - title: 'Review: Capstone Timeline, Deadlines, and Brainstorming Homework'
+    filename: 0mb_capstone_project_brainstorming_homework.md
+    day: weekend
+    type: lesson
+  - title: 'Review: Capstone Planning: The Minimum Viable Product'
+    filename: 0n_the_minimum_viable_product.md
+    day: weekend
+    type: lesson
+  - title: 'Review: Independent Capstone Project Sign-Up and Proposal'
+    filename: 0n_independent_capstone_project_proposal.md
+    day: weekend
+    type: lesson
+  - title: 'Review: Pitching Your Capstone'
+    filename: 0j_pitching_your_capstone.md
+    day: weekend
+    type: lesson
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: monday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: Career Services Day
+    filename: 1a_classwork_career_services_day_apply_to_internships_and_jobs.md
+    day: monday
+    type: exercise
+  - title: Epicodus Feedback
+    filename: epicodus_feedback_classwork.md
+    day: monday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Capstone Project Submission
+    filename: 5a_capstone_independent_project_submission.md
+    day: thursday
+    type: exercise
