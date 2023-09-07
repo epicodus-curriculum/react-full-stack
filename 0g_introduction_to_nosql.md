@@ -7,34 +7,34 @@ In this lesson, we'll cover some of the ways NoSQL is different from SQL — as 
 
 We won't cover all of the differences between SQL and NoSQL databases. Instead, we'll focus on a few of the most significant differences:
 
-<table style="text-align: center; margin: 5% auto">
+<table style={{textAlign: 'center', margin: '5% auto'}}>
   <tr>
-    <th style="text-align:center; ">SQL</th>
-    <th style="text-align:center;">NoSQL</th>
+    <th style={{textAlign: 'center' }}>SQL</th>
+    <th style={{textAlign: 'center' }}>NoSQL</th>
   </tr> 
   <tr> 
-    <td style="padding: 0% 5% 0% 5%;">Relational</td>
-    <td style="padding: 0% 5% 0% 5%;">Non-relational</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Relational</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Non-relational</td>
   </tr>
   <tr>
-    <td style="padding: 0% 5% 0% 5%;">Uses a Schema</td>
-    <td style="padding: 0% 5% 0% 5%;">No Schema</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Uses a Schema</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>No Schema</td>
   </tr>
   <tr>
-    <td style="padding: 0% 5% 0% 5%;">Uses SQL (structured query language)</td>
-    <td style="padding: 0% 5% 0% 5%;">Doesn't use a declarative query language</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Uses SQL (structured query language)</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Doesn't use a declarative query language</td>
   </tr>
   <tr>
-    <td style="padding: 0% 5% 0% 5%;">Great for complex queries</td>
-    <td style="padding: 0% 5% 0% 5%;">Not built for complex queries</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Great for complex queries</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Not built for complex queries</td>
   </tr>
   <tr>
-    <td style="padding: 0% 5% 0% 5%;">ACID approach</td>
-    <td style="padding: 0% 5% 0% 5%;">BASE approach</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>ACID approach</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>BASE approach</td>
   </tr>
   <tr>
-    <td style="padding: 0% 5% 0% 5%;">Not easily distributed</td>
-    <td style="padding: 0% 5% 0% 5%;">Very easy to distribute</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Not easily distributed</td>
+    <td style={{padding: '0% 5% 0% 5%' }}>Very easy to distribute</td>
   </tr>
 </table>
 

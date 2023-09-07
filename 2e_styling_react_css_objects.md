@@ -28,7 +28,7 @@ export default MyStyledComponent;
 
 This is how `MyStyledComponent` looks in browser:
 
-<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Intermediate%20JavaScript/React/style-free-component.png" alt="style-free example component." width="100%">
+<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Intermediate%20JavaScript/React/style-free-component.png" alt="style-free example component." width="100%" />
 
 Let's add styling. We can declare a CSS object right in this component's file:
 
@@ -65,7 +65,7 @@ Whenever we use the `style` attribute directly on an HTML or JSX element, it's c
 
 Our component now looks like this in the browser:
 
-<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Intermediate%20JavaScript/React/inline-styles-in-action.png" alt="example component with inline styles" width="100%">
+<img src="https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Intermediate%20JavaScript/React/inline-styles-in-action.png" alt="example component with inline styles" width="100%" />
 
 The syntax in these CSS objects differs from the CSS syntax we've used in the past. Here are the differences;
 
