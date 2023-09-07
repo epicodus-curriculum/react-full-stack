@@ -34,7 +34,7 @@ The capstone proposal:
 
 ### Project Proposal Template
 
-<hr>
+<hr />
 
 
 **Name of Student**:
@@ -81,8 +81,8 @@ The capstone proposal:
 
 
 **Is there anything else you'd like your instructor to know?** 
-<br>
-<br>
+<br />
+<br />
 
 
-<hr>
+<hr />

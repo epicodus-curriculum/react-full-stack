@@ -16,7 +16,7 @@
 * What issues does React have with SEO? How can we address these issues?
 
 ## Stories and Examples
-<hr>
+<hr />
 
 Offering a tangible story or example that highlights your skills usually goes _much further_ in an interview than simply _telling_ your interviewer you're good at something. (i.e.: Telling a story about a time you tracked down a tricky bug versus simply saying _"I'm good at problem-solving!"_).
 

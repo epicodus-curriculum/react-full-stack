@@ -13,7 +13,7 @@
 * What does it mean to mutate state? Why do we want to avoid this in functional programming?
 
 ## Stories and Examples
-<hr>
+<hr />
 
 Offering a tangible story or example that highlights your skills usually goes much further in an interview than simply telling your interviewer you're good at something. For example, it's better to tell a story about a time you tracked down a tricky bug versus simply saying "I'm good at problem-solving!"
 
