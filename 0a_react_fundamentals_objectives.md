@@ -26,4 +26,4 @@ At the end of this section, you will complete an independent project. Your code 
 * Props are used correctly and always include `PropTypes`.
 * README includes an accurate representation of the application's component tree.
 * Project is in a polished, portfolio-quality state.
-* The prompt’s required functionality and baseline project requirements are in place by the deadline.
+* The prompt's required functionality and baseline project requirements are in place by the deadline.

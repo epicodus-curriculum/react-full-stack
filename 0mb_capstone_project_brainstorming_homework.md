@@ -40,7 +40,7 @@ Keep the following deadlines in mind. You’ll receive more information about ea
 
 **Your homework is to begin brainstorming potential project ideas _now_**, so you’ll be prepared for these deadlines.
 
-Try to craft a project idea that’s both complex enough to demonstrate the multi-faceted skillset you’ve acquired yet still reasonable enough to complete over the next few months (beyond your time at Epicodus).
+Try to craft a project idea that's both complex enough to demonstrate the multi-faceted skillset you’ve acquired yet still reasonable enough to complete over the next few months (beyond your time at Epicodus).
 
 ### Past Student Work
 
@@ -50,7 +50,7 @@ Here are a few examples of projects past students have built independently in pa
 * Fully-functioning websites for the businesses of friends and family (including catering companies, dog breeders, local stores, and other companies)
 * Applications to manage tasks or productivity, including timers to use the Pomodoro method manage video game development
 * Social organizers to create and share events with friends.
-* Applications that assist in user’s health; including creating unique workout plans, timing workouts, connecting individuals to exercise together, creating or recommend diet plans, tracking calories, etc.
+* Applications that assist in user's health; including creating unique workout plans, timing workouts, connecting individuals to exercise together, creating or recommend diet plans, tracking calories, etc.
 * Apps that contain sound, video, step tracking, using the microphone, gyroscope, camera, or other system function.
 * API consuming apps that work with specific APIs to display data for various applications, including social media, health monitoring, and task management.
 * Applications that focus on working with a specific library (like [Three.js](https://threejs.org/)), framework (like [Unity](https://unity.com/)), or platform (like creating a desktop app or browser extension).

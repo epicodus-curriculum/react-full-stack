@@ -6,7 +6,7 @@ Your participation in Epicodus's DEI mission starts with making our classroom a 
 
 To ensure a safe and productive space in our classroom, we’ve created a set of community agreements adapted from [Discussion Ground Rules (Iowa State University Library)](https://instr.iastate.libguides.com/c.php?g=957020&p=6908208) and [Ground Rules and Tools: Facilitating Productive Discussions (UCAR)](https://www.ucar.edu/who-we-are/diversity-inclusion/community-resources/ground-rules-tools). Please read and review these agreements prior to each DEI workshop to better be in the right frame of mind for the discussions.   
 
-“We” going forward refers to Epicodus staff and students. The DEI workshops at Epicodus are intended to be a place for discussion of ideas and for learning about differing viewpoints, not for debate or lecture. There are no experts in DEI and we are here to listen to each other’s viewpoints. Heading into each session, it is important to understand that everyone sees and experiences the world differently, and what seems “right” in your experience may not be so in someone else’s. Everyone is asked to consider different perspectives, for the purpose of sensitivity, learning, and growth. 
+“We” going forward refers to Epicodus staff and students. The DEI workshops at Epicodus are intended to be a place for discussion of ideas and for learning about differing viewpoints, not for debate or lecture. There are no experts in DEI and we are here to listen to each other's viewpoints. Heading into each session, it is important to understand that everyone sees and experiences the world differently, and what seems “right” in your experience may not be so in someone else's. Everyone is asked to consider different perspectives, for the purpose of sensitivity, learning, and growth. 
 
 1. **Recognize:** We recognize that historical and divisive biases, such as racism and sexism, have created inequity in our society. We recognize that these inequities are wrong and unfair, and that we must intentionally work to overcome them.
 
@@ -31,7 +31,7 @@ To ensure a safe and productive space in our classroom, we’ve created a set of
 
 9. **Ask for help:** It's okay not to know. We are all still learning and are bound to make mistakes when approaching a complex task or exploring new ideas. We agree to be open to changing our minds and to making space for others to do so as well.
 
-10. **Confidentiality:** In the course of our discussions, people may be vulnerable and share personal thoughts, feelings, or experiences. It’s okay to share the takeaways or lessons that someone else has shared with you, but do not share names or other personal identifiers during class at Epicodus or outside of the classroom.
+10. **Confidentiality:** In the course of our discussions, people may be vulnerable and share personal thoughts, feelings, or experiences. It's okay to share the takeaways or lessons that someone else has shared with you, but do not share names or other personal identifiers during class at Epicodus or outside of the classroom.
 
 ### [Do You Have an Addition for our Community Agreements?](#do-you-have-an-addition-for-our-community-agreements)
 

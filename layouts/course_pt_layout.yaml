@@ -1,0 +1,63 @@
+---
+part_time: true
+internship: false
+number_of_weeks: 12
+class_times:
+  Monday: 8:00-12:00
+  Tuesday: 8:00-12:00
+  Wednesday: 8:00-12:00
+  Thursday: 8:00-12:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Functional Programming with JavaScript
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/0_functional_programming/5a_cr_functional_programming_independent_project.md
+      objectives:
+      - "Whiteboard solution has been submitted."
+      - "Whiteboard interview meets all requirements (based on peer feedback)."
+      - "Your evaluations for peers are complete and include constructive feedback."
+    - title: Addressing Implicit Bias
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/15_addressing_implicit_bias_reflection.md
+    - title: React Fundamentals
+      visible_class_week: 4
+      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/1_react_fundamentals/5a_cr_react_fundamentals_ONE_week_independent_project.md
+      objectives:
+      - "Application compiles and runs without error, and warnings in the DevTools console are resolved."
+      - "Functional and class components are used correctly."
+      - "Application effectively uses local and shared state."
+      - "Props are used correctly and always include PropTypes."
+      - "README includes an accurate representation of the application's component tree."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: React with Redux
+      visible_class_week: 6
+      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/2_redux/5a_epicenter_cr_redux_independent_project_capstone_work_.md
+      objectives:
+      - "Project commit history demonstrates a full session of work: 8 hours for full-time students and 4 hours for part-time students."
+      - "Project includes capstone proposal."
+      - "README includes an overview of the project."
+    - title: Understanding Stereotype Threat
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/17_understanding_stereotype_threat_reflection.md
+    - title: React with NoSQL
+      visible_class_week: 8
+      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/3_new_react_with_nosql/5a_teacher_notes_react_with_nosql_independent_project.md
+      objectives:
+      - "Project commit history demonstrates a full session of work: 8 hours for full-time students and 4 hours for part-time students."
+      - "Project includes capstone proposal."
+      - "README includes an overview of the project."
+    - title: Independent Capstone Project
+      visible_class_week: 12
+      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/5_independent_capstone_projects/5a_capstone_independent_project_submission.md
+      objectives:
+      - "Did you participate in capstone project process, including submitting proposal, working effectively throughout the section, and presenting at the trade show?"

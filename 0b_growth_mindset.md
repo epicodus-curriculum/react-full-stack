@@ -24,7 +24,7 @@ Come back to these choice excerpts when you need inspiration:
 
 > Mindsets can be taught; they’re malleable.
 
-> Praising someone’s process (“I really like how you struggled with that problem”) versus praising an innate trait or talent (“You’re so clever!”) is one way to reinforce a growth ­mindset.
+> Praising someone's process (“I really like how you struggled with that problem”) versus praising an innate trait or talent (“You’re so clever!”) is one way to reinforce a growth ­mindset.
 
 <hr />
 

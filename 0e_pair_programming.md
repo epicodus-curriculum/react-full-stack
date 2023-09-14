@@ -46,7 +46,7 @@ The terms "pairing up" and "pairing down" simply compare where each person is at
 
 Please refrain from making value judgments about your peers (or yourself!) based on your perceived difference in skill sets. It's all too common for students to come to teachers sure they are falling behind or struggling more than others — only to learn from their teacher that almost everyone else is saying the same thing!
 
-It’s important to work with a wide variety of people, including people at your same level of understanding. If you always "pair down", you won't push your limits. If you always "pair up", you'll find that even if you think you understand a concept, you won't be able to implement it yourself. If you have a few class sessions in a row where your pairs haven't been well-matched, talk with a teacher. Overall, you should expect that you will regularly pair up and pair down throughout the program.
+It's important to work with a wide variety of people, including people at your same level of understanding. If you always "pair down", you won't push your limits. If you always "pair up", you'll find that even if you think you understand a concept, you won't be able to implement it yourself. If you have a few class sessions in a row where your pairs haven't been well-matched, talk with a teacher. Overall, you should expect that you will regularly pair up and pair down throughout the program.
 
 ### [Making the Best of Pair Programming](#making-the-best-of-pair-programming)
 
