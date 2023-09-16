@@ -2,6 +2,8 @@
 part_time: true
 internship: false
 number_of_weeks: 12
+# number_of_days can be removed once merge PR into Epicenter
+number_of_days: 48
 class_times:
   Monday: 8:00-12:00
   Tuesday: 8:00-12:00
