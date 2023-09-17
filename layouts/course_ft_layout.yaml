@@ -21,7 +21,7 @@ code_reviews:
   details:
     - title: Functional Programming with JavaScript
       visible_class_week: 1
-      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/0_functional_programming/5a_cr_functional_programming_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/1_cr_functional_programming_independent_project.md
       objectives:
       - Whiteboard solution has been submitted.
       - Whiteboard interview meets all requirements (based on peer feedback).
@@ -29,10 +29,10 @@ code_reviews:
     - title: Addressing Implicit Bias
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/15_addressing_implicit_bias_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/15_addressing_implicit_bias_reflection.md
     - title: React Fundamentals
       visible_class_week: 2
-      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/1_react_fundamentals/5a_cr_react_fundamentals_ONE_week_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/2_cr_react_fundamentals_ONE_week_independent_project.md
       objectives:
       - "Application compiles and runs without error, and warnings in the DevTools console are resolved."
       - Functional and class components are used correctly.
@@ -43,7 +43,7 @@ code_reviews:
       - "The prompt's required functionality and baseline project requirements are in place by the deadline."
     - title: React with Redux
       visible_class_week: 3
-      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/2_redux/5a_epicenter_cr_redux_independent_project_capstone_work_.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/3_epicenter_cr_redux_independent_project_capstone_work_.md
       objectives:
       - "Project commit history demonstrates a full session of work: 8 hours for full-time students and 4 hours for part-time students."
       - Project includes capstone proposal.
@@ -51,16 +51,16 @@ code_reviews:
     - title: Understanding Stereotype Threat
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/17_understanding_stereotype_threat_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/17_understanding_stereotype_threat_reflection.md
     - title: React with NoSQL
       visible_class_week: 4
-      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/3_new_react_with_nosql/5a_teacher_notes_react_with_nosql_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/4_teacher_notes_react_with_nosql_independent_project.md
       objectives:
       - "Project commit history demonstrates a full session of work: 8 hours for full-time students and 4 hours for part-time students."
       - Project includes capstone proposal.
       - README includes an overview of the project.
     - title: Independent Capstone Project
       visible_class_week: 6
-      filename: https://github.com/epicodus-classroom/react-curriculum/blob/main/5_independent_capstone_projects/5a_capstone_independent_project_submission.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/5_capstone_independent_project_submission.md
       objectives:
       - Did you participate in capstone project process, including submitting proposal, working effectively throughout week, and presenting at the trade show?
