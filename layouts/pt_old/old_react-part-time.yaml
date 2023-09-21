@@ -1,0 +1,18 @@
+title: React (Part-Time - Evening)
+show_weeks_and_days: true
+homepage: index-pt-old.md
+sections:
+  - pt_old_0_getting-started-at-epicodus.yaml
+  - pt_old_1_functional-programming-with-javascript-1e75b6d0-055f-43e6-9f66-7a959ffc3f78.yaml
+  - pt_old_2_functional-programming-with-javascript-part-2.yaml
+  - pt_old_3_react-fundamentals.yaml
+  - pt_old_4_react-fundamentals-part-2.yaml
+  - pt_old_5_react-with-redux.yaml
+  - pt_old_6_react-with-redux-part-2.yaml
+  - pt_old_7_react-with-nosql.yaml
+  - pt_old_8_react-with-nosql-part-2.yaml
+  - pt_old_9_react-with-apis.yaml
+  - pt_old_10_react-with-apis-part-2.yaml
+  - pt_old_11_independent-capstone.yaml
+  - pt_old_12_independent-capstone-part-2.yaml
+  - pt_old_13_capstone-day.yaml

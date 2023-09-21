@@ -1,0 +1,9 @@
+section: Capstone Day
+order: 14
+repo: react-full-stack
+directory: 14_capstone-day
+lessons:
+  - title: Capstone Project Submission
+    filename: 5a_capstone_independent_project_submission.md
+    day: sunday
+    type: exercise

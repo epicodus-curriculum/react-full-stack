@@ -1,0 +1,12 @@
+title: React
+show_weeks_and_days: true
+homepage: index-ft-old.md
+sections:
+  - ft_old_0_getting-started-at-epicodus.yaml
+  - ft_old_1_functional-programming-with-javascript.yaml
+  - ft_old_2_react-fundamentals.yaml
+  - ft_old_3_react-with-redux.yaml
+  - ft_old_4_react-with-nosql.yaml
+  - ft_old_5_react-with-apis.yaml
+  - ft_old_6_independent-capstone.yaml
+  

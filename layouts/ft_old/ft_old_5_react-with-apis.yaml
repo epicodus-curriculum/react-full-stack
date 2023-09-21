@@ -1,0 +1,113 @@
+section: React with APIs
+order: 6
+repo: react-full-stack
+directory: 6_react-with-apis
+lessons:
+  - title: APIs and Full Stack Development Objectives
+    filename: 0a_react_with_apis_objectives.md
+    day: weekend
+    type: lesson
+  - title: Full Stack Development Project
+    filename: 0b_fullstack_development.md
+    day: weekend
+    type: lesson
+  - title: 'NY Times API: Making an API Call with fetch and useState'
+    filename: 0c_making_an_api_call_with_fetch.md
+    day: weekend
+    type: lesson
+  - title: The useReducer Hook
+    filename: 0d_the_useReducer_hook.md
+    day: weekend
+    type: lesson
+  - title: 'NY Times API: Writing and Testing our Reducer and Actions'
+    filename: 0e_testing_and_writing_our_reducers.md
+    day: weekend
+    type: lesson
+  - title: 'NY Times API: Implementing useReducer'
+    filename: 0f_finishing_up_api_with_useReducer.md
+    day: weekend
+    type: lesson
+  - title: React Context
+    filename: 0g_react_context.md
+    day: weekend
+    type: lesson
+  - title: 'Help Queue: Planning and Setup for Context'
+    filename: 0h_using_context_in_help_queue.md
+    day: weekend
+    type: lesson
+  - title: 'Help Queue: Creating a Context and Provider'
+    filename: 0i_using_context_in_help_queue_part_2.md
+    day: weekend
+    type: lesson
+  - title: 'Help Queue: Adding Context Consumers and Error Handling'
+    filename: 0j_using_context_in_help_queue_part_3.md
+    day: weekend
+    type: lesson
+  - title: Context Best Practices, Alternatives, and Further Exploration
+    filename: 0k_context_best_practices_and_alternatives_and_further_exploration.md
+    day: weekend
+    type: lesson
+  - title: Pitching Your Capstone
+    filename: 0l_pitching_your_capstone.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #17 Prompt'
+    filename: 1_week_19_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: monday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #17 Discussion'
+    filename: 2_week_19_discussion_classwork.md
+    day: monday
+    type: exercise
+    repo: career-services-full-stack
+  - title: React with API (Three-Day Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: monday
+    type: exercise
+  - title: 'Further Exploration: React Native'
+    filename: 1b_further_exploration_react_native.md
+    day: monday
+    type: lesson
+  - title: 'Further Exploration: SEO with React'
+    filename: 1c_further_exploration_seo_with_react.md
+    day: monday
+    type: lesson
+  - title: 'Further Exploration: Creating a Custom React Environment'
+    filename: 2a_further_exploration_creating_our_own_react_environment.md
+    day: tuesday
+    type: lesson
+  - title: 'Further Exploration: Data Visualization'
+    filename: 2b_further_exploration_data_visualization.md
+    day: tuesday
+    type: lesson
+  - title: 'Further Exploration: Animations with React'
+    filename: 2c_further_exploration_ui_animations_and_interactivity.md
+    day: tuesday
+    type: lesson
+  - title: 'Technical Interview Practice: APIs and Further Exploration'
+    filename: 3a_technical_interview_practice_apis_and_further_exploration_classwork.md
+    day: wednesday
+    type: exercise
+  - title: Researching Internship Companies
+    filename: 3b_career_prep_homework.md
+    day: wednesday
+    type: lesson
+  - title: Professional Development Day
+    filename: 4a_classwork_professional_development_day.md
+    day: thursday
+    type: exercise
+  - title: Preparing For and Ranking Internships
+    filename: 2_classwork_ranking_internship_companies.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Friday Capstone Day
+    filename: 5a_react_with_apis_capstone_work.md
+    day: thursday
+    type: lesson
