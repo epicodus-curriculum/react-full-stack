@@ -1,0 +1,142 @@
+section: React with NoSQL
+order: 5
+repo: react-full-stack
+directory: 5_react-with-nosql
+lessons:
+  - title: React with NoSQL Objectives
+    filename: 0a_react_with_nosql_objectives.md
+    day: weekend
+    type: lesson
+  - title: Introduction to Hooks with the useState Hook
+    filename: 0b_intro_to_hooks_useState_hook.md
+    day: weekend
+    type: lesson
+  - title: Running Side Effects with the useEffect Hook
+    filename: 0c_intro_to_useEffect_hook.md
+    day: weekend
+    type: lesson
+  - title: The Rules of Hooks, Custom Hooks, and Why Hooks Are Awesome
+    filename: 0d_rules_of_hooks_and_custom_hooks.md
+    day: weekend
+    type: lesson
+  - title: Refactoring Help Queue to Use Hooks
+    filename: 0e_refactoring_help_queue_to_use_hooks.md
+    day: weekend
+    type: lesson
+  - title: Introduction to BaaS, Firebase, and Firestore
+    filename: 0f_introduction_to_firebase.md
+    day: weekend
+    type: lesson
+  - title: Introduction to NoSQL
+    filename: 0g_introduction_to_nosql.md
+    day: weekend
+    type: lesson
+  - title: The CAP Theorem and BASE
+    filename: 0h_cap_theorem.md
+    day: weekend
+    type: lesson
+  - title: Setting up a Firebase Project, Firestore Database, and Web App
+    filename: 0i_setting_up_a_firebase_project.md
+    day: weekend
+    type: lesson
+  - title: Firebase Documentation
+    filename: 0j_firebase_documentation.md
+    day: weekend
+    type: lesson
+  - title: Adding Firebase to React
+    filename: 0k_adding_firebase_to_react.md
+    day: weekend
+    type: lesson
+  - title: Adding Tickets to Firestore
+    filename: 0l_adding_tickets_to_firestore.md
+    day: weekend
+    type: lesson
+  - title: Viewing Tickets from Firestore
+    filename: 0m_viewing_tickets_from_firestore.md
+    day: weekend
+    type: lesson
+  - title: Updating and Deleting Tickets in Firestore
+    filename: 0n_updating_and_deleting_tickets_with_firestore.md
+    day: weekend
+    type: lesson
+  - title: Structuring Data in Firestore
+    filename: 0o_structuring_data_in_firestore.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #16'
+    filename: 1_week_18_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: monday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #16 Discussion'
+    filename: 2_week_18_discussion_classwork.md
+    day: monday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Firestore Survey, Quiz of Choice (Two-Day or One-Week Project)
+    filename: 1a_classwork_firestore_survey_quiz_of_choice.md
+    day: monday
+    type: exercise
+  - title: Client-Side Routing
+    filename: 1b_client_side_routing.md
+    day: monday
+    type: lesson
+  - title: React Router
+    filename: 1c_react_router.md
+    day: monday
+    type: lesson
+  - title: Firebase Authentication
+    filename: 1d_firebase_authentication.md
+    day: monday
+    type: lesson
+  - title: Firebase Authorization
+    filename: 1e_firebase_authorization.md
+    day: monday
+    type: lesson
+  - title: Firestore Queries
+    filename: 2a_firestore_queries.md
+    day: tuesday
+    type: lesson
+  - title: Adding Wait Time to the Queue
+    filename: 2b_adding_wait_time_to_the_queue.md
+    day: tuesday
+    type: lesson
+  - title: Hosting with Firebase
+    filename: 2c_hosting_with_firebase.md
+    day: tuesday
+    type: lesson
+  - title: Choose Your Own Adventure (Two-Day or One-Week Project)
+    filename: 3a_classwork_choose_your_own_adventure.md
+    day: wednesday
+    type: exercise
+  - title: Styled Components
+    filename: 3b_styled_components.md
+    day: wednesday
+    type: lesson
+  - title: Further Exploration Opportunities
+    filename: 3c_further_exploration_with_firebase.md
+    day: wednesday
+    type: lesson
+  - title: Informational Interviews
+    filename: informational-interviews.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
+  - title: 'Technical Interview Practice: NoSQL'
+    filename: 4a_technical_interview_practice_nosql_classwork.md
+    day: thursday
+    type: exercise
+  - title: Applying for Jobs
+    filename: classwork_applying_for_jobs.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: React with NoSQL Independent Project
+    filename: 5a_react_with_nosql_independent_project.md
+    day: friday
+    type: exercise

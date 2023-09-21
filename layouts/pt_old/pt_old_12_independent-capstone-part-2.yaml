@@ -1,0 +1,14 @@
+section: Independent Capstone Part 2
+order: 13
+repo: react-full-stack
+directory: 13_independent-capstone-part-2
+lessons:
+  - title: Career Services Day
+    filename: 1a_classwork_career_services_day_apply_to_internships_and_jobs.md
+    day: monday
+    type: exercise
+  - title: Epicodus Feedback
+    filename: epicodus_feedback_classwork.md
+    day: monday
+    type: exercise
+    repo: career-services-full-stack

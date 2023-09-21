@@ -1,0 +1,41 @@
+section: React with APIs Part 2
+order: 11
+repo: react-full-stack
+directory: 11_react-with-apis-part-2
+lessons:
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: sunday
+    type: exercise
+  - title: 'Further Exploration: Creating a Custom React Environment'
+    filename: 2a_further_exploration_creating_our_own_react_environment.md
+    day: sunday
+    type: lesson
+  - title: 'Further Exploration: Data Visualization'
+    filename: 2b_further_exploration_data_visualization.md
+    day: sunday
+    type: lesson
+  - title: 'Further Exploration: Animations with React'
+    filename: 2c_further_exploration_ui_animations_and_interactivity.md
+    day: sunday
+    type: lesson
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: monday
+    type: exercise
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: tuesday
+    type: exercise
+  - title: 'Technical Interview Practice: APIs and Further Exploration'
+    filename: 3a_technical_interview_practice_apis_and_further_exploration_classwork.md
+    day: wednesday
+    type: exercise
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: wednesday
+    type: exercise
+  - title: Continued Work on your Capstone
+    filename: 5a_react_with_apis_capstone_work.md
+    day: thursday
+    type: lesson

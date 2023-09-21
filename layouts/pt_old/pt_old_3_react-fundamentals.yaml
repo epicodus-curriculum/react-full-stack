@@ -1,0 +1,160 @@
+section: React Fundamentals
+order: 4
+repo: react-full-stack
+directory: 4_react-fundamentals
+lessons:
+  - title: React Fundamentals Objectives
+    filename: 0a_react_fundamentals_objectives.md
+    day: weekend
+    type: lesson
+  - title: Introduction to React
+    filename: 0ab_introduction_to_react.md
+    day: weekend
+    type: lesson
+  - title: The Virtual DOM
+    filename: 0b_the_virtual_dom.md
+    day: weekend
+    type: lesson
+  - title: Using create-react-app
+    filename: 0c_using_create_react_app.md
+    day: weekend
+    type: lesson
+  - title: React Components
+    filename: 0d_components.md
+    day: weekend
+    type: lesson
+  - title: Introduction to JSX
+    filename: 0e_introduction_to_jsx.md
+    day: weekend
+    type: lesson
+  - title: Planning a React Application
+    filename: 0f_planning_our_application.md
+    day: weekend
+    type: lesson
+  - title: Building a Static Site
+    filename: 0g_building_a_static_site.md
+    day: weekend
+    type: lesson
+  - title: Props
+    filename: 0i_props.md
+    day: weekend
+    type: lesson
+  - title: Prop Types
+    filename: 0j_proptypes.md
+    day: weekend
+    type: lesson
+  - title: Looping in JSX
+    filename: 0k_looping_in_jsx.md
+    day: weekend
+    type: lesson
+  - title: Using External Stylesheets with React
+    filename: 0l_external_stylesheets_with_cra.md
+    day: weekend
+    type: lesson
+  - title: Debugging with React Developer Tools
+    filename: 0m_react_dev_tools.md
+    day: weekend
+    type: lesson
+  - title: Adding Images
+    filename: 0ma_adding_images_to_cra.md
+    day: weekend
+    type: lesson
+  - title: Independent Capstone Project Sign-Up and Proposal
+    filename: 0n_independent_capstone_project_proposal.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #14'
+    filename: 1_week_16_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #14 Discussion'
+    filename: 2_week_16_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Help Queue, Social Media, Airbnb Clone
+    filename: 1a_classwork_help_queue_social_media_airbnb_clone.md
+    day: sunday
+    type: exercise
+  - title: Introduction to State
+    filename: 1b_introduction_to_state.md
+    day: sunday
+    type: lesson
+  - title: 'Planning Our Application: Part 2'
+    filename: 1c_planning_our_application_part_2.md
+    day: sunday
+    type: lesson
+  - title: Adding Local State
+    filename: 1d_adding_local_state.md
+    day: sunday
+    type: lesson
+  - title: Conditional Rendering
+    filename: 1e_conditional_rendering.md
+    day: sunday
+    type: lesson
+  - title: Updating State with Events
+    filename: 1f_updating_state_with_events.md
+    day: sunday
+    type: lesson
+  - title: Binding Functions in React
+    filename: 1g_binding_functions_in_react.md
+    day: sunday
+    type: lesson
+  - title: Farmers Market (Two-day Project)
+    filename: 2a_classwork_css_practice_farmers_markets.md
+    day: monday
+    type: exercise
+  - title: Farmers Market (Two-day Project)
+    filename: 2a_classwork_css_practice_farmers_markets.md
+    day: tuesday
+    type: exercise
+  - title: Applying for Jobs
+    filename: classwork_applying_for_jobs.md
+    day: wednesday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Technical Interview Preparation: React Fundamentals'
+    filename: 4b_classwork_technical_interview_prep_react_fundamentals.md
+    day: wednesday
+    type: exercise
+  - title: Following Up During the Job Application Process
+    filename: 6_Follow-Up_During_the_Job_Application_Process.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
+  - title: Expand Your Job Search Network Through Cold Emailing
+    filename: 7_Expand_your_Job_Search_Network_through_Cold_Emailing.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
+  - title: Tools for Email Management
+    filename: 8_Tools_for_Email_Management.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
+  - title: UUID Library
+    filename: 2ab_uuid_library.md
+    day: wednesday
+    type: lesson
+  - title: Adding a Form
+    filename: 2b_adding_a_form.md
+    day: wednesday
+    type: lesson
+  - title: Unidirectional Data Flow
+    filename: 2c_unidirectional_data_flow.md
+    day: wednesday
+    type: lesson
+  - title: Passing Data Via Callbacks
+    filename: 2d_passing_data_via_callbacks.md
+    day: wednesday
+    type: lesson
+  - title: 'Styling React: CSS Objects'
+    filename: 2e_styling_react_css_objects.md
+    day: wednesday
+    type: lesson
