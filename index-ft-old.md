@@ -1,9 +1,9 @@
 ---
-title: React
+title: React (Pre-October Cohorts)
 id: index
-slug: /react_old
+slug: /react_class
 hide_table_of_contents: true
 sidebar_position: 0
 ---
 
-Homepage for React course
+Homepage for React pre-October cohorts course
