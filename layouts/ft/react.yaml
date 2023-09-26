@@ -2,7 +2,6 @@ title: React
 show_weeks_and_days: true
 homepage: index.md
 sections:
-  - ft_0_getting-started-at-epicodus.yaml
   - ft_1_functional-programming-with-javascript.yaml
   - ft_2_react-fundamentals.yaml
   - ft_3_react-with-redux.yaml
