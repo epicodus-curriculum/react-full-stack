@@ -10,7 +10,7 @@ In 2013, React was made open source. Since then, it has become extremely popular
 ## What is React?
 ---
 
-What exactly is React? At its core, it's a **library** for developing the view layer. A library focuses on one piece of functionality and that's exactly what React does. It isn't concerned with the back-end of an application. Instead, it manages how user interfaces look and behave.
+What exactly is React? It's not an MVC like .NET or Rails. At its core, it's a **library** for developing the view layer. A library focuses on one piece of functionality and that's exactly what React does. It isn't concerned with the back-end of an application. Instead, it manages how user interfaces look and behave.
 
 React is also **highly dynamic**. This means it can handle views that need to change a lot. React allows us to quickly and dynamically update the UI without reloading pages. Any application or site that requires frequent updates is a great candidate for React.
 
@@ -74,7 +74,7 @@ React utilizes a **virtual DOM**. We'll explore what this is and how it works in
 
 ### Easier to Create Single Page Applications
 
-For a long time, all websites were multi-page applications. Many still are, including future MVC applications we will eventually create with .NET in the next course. Whenever we request to see information or complete an action, we navigate to a new page. For example, check out the way a user interacts with the multi-page site [kiva.org](https://www.kiva.org):
+For a long time, all websites were multi-page applications. Many still are, including the MVC applications we created with Rails and .NET. Whenever we request to see information or complete an action, we navigate to a new page. For example, check out the way a user interacts with the multi-page site [kiva.org](https://www.kiva.org):
 
 ![kiva-multi-page-app-example](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/React/kiva-multi-page-app-example.gif)
 

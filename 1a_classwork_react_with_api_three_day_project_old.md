@@ -23,6 +23,7 @@ Spend the next three class sessions building a React application around an API b
 * React
 * React hooks to manage state
 * The Fetch API 
+* A .NET or Rails API from your back end class
 
 **Note:** If you wish, you may also try React Native, which is designed for mobile development. See the upcoming homework if you are interested.
 

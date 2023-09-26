@@ -38,7 +38,7 @@ We won't cover all of the differences between SQL and NoSQL databases. Instead, 
   </tr>
 </table>
 
-SQL is a **structured query language** for relational databases. We use a **schema** to map exactly how our database tables should look — which means that each record in the database has a fixed number of columns. Because the database is relational, we can create complex queries based on the relationships between different records in the database. For example, if we wanted to find all of an author's books, we'd do a query where we find all of the books in the `books` table with an `author_id` property that matches the author's `id`. SQL databases tend to have a single node and follow the principles of ACID closely.
+As students of C#/.NET and Ruby/Rails learned, SQL is a **structured query language** for relational databases. We use a **schema** to map exactly how our database tables should look — which means that each record in the database has a fixed number of columns. Because the database is relational, we can create complex queries based on the relationships between different records in the database. For example, if we wanted to find all of an author's books, we'd do a query where we find all of the books in the `books` table with an `author_id` property that matches the author's `id`. SQL databases tend to have a single node and follow the principles of ACID closely.
 
 On the other hand, NoSQL databases are non-relational. They have no schema and don't use a declarative query language. This is why they are essentially called "no SQL" — they really are the opposite in many ways. Not having a schema frees up a NoSQL database to have flexibility in storing data. 
 

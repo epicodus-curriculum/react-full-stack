@@ -51,10 +51,6 @@ lessons:
     filename: 0ga_recursion.md
     day: weekend
     type: lesson
-  - title: Capstone Timeline, Deadlines, and Brainstorming Homework
-    filename: 0mb_capstone_project_brainstorming_homework.md
-    day: weekend
-    type: lesson
   - title: 'Capstone Planning: The Minimum Viable Product'
     filename: 0n_the_minimum_viable_product.md
     day: weekend

@@ -1,6 +1,6 @@
 In 2015, Facebook created React Native, an open source version of React meant for mobile development. This allowed developers to build truly cross-platform applications with JavaScript. iOS and Android apps for Facebook, Instagram, Skype, [and more](https://facebook.github.io/react-native/showcase.html) are built with React Native. Many companies that already use React for websites often opt to use React Native for their mobile apps because there is enough similarity between the two libraries to share code.
 
-This lesson will provide a quick introduction to the basics of React Native, including how it differs from React. If you wish, you may want to consider using React Native for your capstone project later in the curriculum — and you are also welcome to add a React Native front end to your project in this course section.
+This lesson will provide a quick introduction to the basics of React Native, including how it differs from React. If you wish, you may use React Native for your capstone project — and you are also welcome to add a React Native front end to your project in this course section.
 
 ### React vs. React Native
 
@@ -33,4 +33,4 @@ Here are some key similarities:
 
 For more information on these similarities, see the [React Fundamentals](https://reactnative.dev/docs/intro-react) section of the React Native documentation.
 
-If you're interested in building a React Native application for this course section's projecte, start with the React Native [documentation](https://reactnative.dev/docs/getting-started), which includes basic tutorials. Even if you don't plan to build with React Native right now, we still recommend looking over the documentation. That way, you still have some familiarity with React Native if you apply for a job where it's used — or get asked questions about a related topic in an interview.
+If you're interested in building a React Native application for this course section's project or your capstone, start with the React Native [documentation](https://reactnative.dev/docs/getting-started), which includes basic tutorials. Even if you don't plan to build with React Native right now, we still recommend looking over the documentation. That way, you still have some familiarity with React Native if you apply for a job where it's used — or get asked questions about a related topic in an interview.

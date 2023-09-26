@@ -8,7 +8,7 @@ lessons:
     day: weekend
     type: lesson
   - title: Introduction to React
-    filename: 0ab_introduction_to_react.md
+    filename: 0ab_introduction_to_react_old.md
     day: weekend
     type: lesson
   - title: The Virtual DOM

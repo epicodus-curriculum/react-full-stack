@@ -90,7 +90,7 @@ const q = query(
 
 Yes, we can! This is known as a **compound query**. These kinds of queries are common with ORMs like ActiveRecord (Rails) and Entity (.NET). We can also do compound queries in Firestore, but only after we do some initial configuration.
 
-Firestore requires an index for every query. A database index is similar to an index in a book. If we want to find all the passages about "loops" in a book on JavaScript, we could do so much faster if we can look in an index and find the specific page numbers where loops are mentioned. Otherwise, we'd have to go through every single page of the book to find all the passages on loops.
+Firestore requires an index for every query. Rails and .NET students may already be familiar with database indexing (which is optional but often recommended for database performance). A database index is similar to an index in a book. If we want to find all the passages about "loops" in a book on JavaScript, we could do so much faster if we can look in an index and find the specific page numbers where loops are mentioned. Otherwise, we'd have to go through every single page of the book to find all the passages on loops.
 
 A database index works the same way. It's a structure that allows our queries to be conducted much more efficiently. This is why Firestore requires indexes for all queries — so it can be extremely fast.
 

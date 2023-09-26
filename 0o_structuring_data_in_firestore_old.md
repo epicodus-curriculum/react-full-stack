@@ -107,7 +107,7 @@ While this approach most closely maps to creating a one-to-many relationship, we
 ## Using Multiple Collections for Data
 ---
 
-The final recommendation, and the one that's probably effective for the most use cases, is to just use multiple collections. In this situation, we'd have separate collections for trails and reviews. In order to create something similar to a one-to-many association, we'd need to manually create the association between a trail and a review in our code. We just need to add a field like `trailId` to a review. The code for creating an association might look something like this:
+The final recommendation, and the one that's probably effective for the most use cases, is to just use multiple collections. In this situation, we'd have separate collections for trails and reviews. In order to create something similar to a one-to-many association, we'd need to manually create the association between a trail and a review in our code. Rails and .NET coders can apply their SQL knowledge here. We just need to add a field like `trailId` to a review. The code for creating an association might look something like this:
 
 ```js
 await addDoc(collection(db, "reviews"), {trailId: tid, content: "Amazing trail!" })

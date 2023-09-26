@@ -28,11 +28,11 @@ lessons:
     day: weekend
     type: lesson
   - title: Introduction to NoSQL
-    filename: 0g_introduction_to_nosql.md
+    filename: 0g_introduction_to_nosql_old.md
     day: weekend
     type: lesson
   - title: The CAP Theorem and BASE
-    filename: 0h_cap_theorem.md
+    filename: 0h_cap_theorem_old.md
     day: weekend
     type: lesson
   - title: Setting up a Firebase Project, Firestore Database, and Web App
@@ -60,7 +60,7 @@ lessons:
     day: weekend
     type: lesson
   - title: Structuring Data in Firestore
-    filename: 0o_structuring_data_in_firestore.md
+    filename: 0o_structuring_data_in_firestore_old.md
     day: weekend
     type: lesson
   - title: 'Journal #16'
@@ -116,7 +116,7 @@ lessons:
     day: wednesday
     type: exercise
   - title: Firestore Queries
-    filename: 2a_firestore_queries.md
+    filename: 2a_firestore_queries_old.md
     day: wednesday
     type: lesson
   - title: Adding Wait Time to the Queue

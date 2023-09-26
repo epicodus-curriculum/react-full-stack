@@ -8,7 +8,7 @@ lessons:
     day: weekend
     type: lesson
   - title: Introduction to React
-    filename: 0ab_introduction_to_react.md
+    filename: 0ab_introduction_to_react_old.md
     day: weekend
     type: lesson
   - title: The Virtual DOM
@@ -155,7 +155,7 @@ lessons:
     day: wednesday
     type: lesson
   - title: Updating a Ticket
-    filename: 3g_updating_a_ticket.md
+    filename: 3g_updating_a_ticket_old.md
     day: wednesday
     type: lesson
   - title: 'Technical Interview Preparation: React Fundamentals'

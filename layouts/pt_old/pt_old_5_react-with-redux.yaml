@@ -4,7 +4,7 @@ repo: react-full-stack
 directory: 6_react-with-redux
 lessons:
   - title: React with Redux Objectives
-    filename: 0a_react_with_redux_objectives.md
+    filename: 0a_react_with_redux_objectives_old.md
     day: weekend
     type: lesson
   - title: Introduction to Redux
