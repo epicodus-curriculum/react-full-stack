@@ -20,7 +20,7 @@ We encourage collaboration on career services assignments, like reviewing each o
 
 All of that said, the work you do for these projects must be your own. Don't use sample language or content that you find online for any of your work, and do not copy other students' work.
 
-As explained in our [Student Handbook](https://www.learnhowtoprogram.com/lessons/student-handbook#academic-honesty), these projects are an opportunity to receive personalized feedback, and to ensure you're developing skills for success after graduation. If you plagiarize work you both lose this valuable opportunity and risk setting yourself up for failure in the job search or interviews. This will not only harm you, but the reputation of all Epicodus students as well.
+As explained in our [Student Handbook](https://new.learnhowtoprogram.com/lessons/student-handbook#academic-honesty), these projects are an opportunity to receive personalized feedback, and to ensure you're developing skills for success after graduation. If you plagiarize work you both lose this valuable opportunity and risk setting yourself up for failure in the job search or interviews. This will not only harm you, but the reputation of all Epicodus students as well.
 
 For these reasons, projects are carefully reviewed to confirm all work is your own. **Students found to have plagiarized will be expelled.**
 
@@ -30,9 +30,9 @@ For these reasons, projects are carefully reviewed to confirm all work is your o
 
 Internship coursework and projects are assigned at different points throughout the program. The schedule for the coursework is listed in the following lessons:
 
-**<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Schedule](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/career-services-schedule)**
+**<span class="glyphicon glyphicon-link"></span> [Full-Time Career Services Schedule](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/career-services-schedule)**
 
-**<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Schedule](https://www.learnhowtoprogram.com/introduction-to-programming-part-time/getting-started-at-epicodus/career-services-schedule)**
+**<span class="glyphicon glyphicon-link"></span> [Part-Time Career Services Schedule](https://new.learnhowtoprogram.com/introduction-to-programming-part-time/getting-started-at-epicodus/career-services-schedule)**
 
 Students will check in with their career services advisor regularly in meetings prior to each project to learn about upcoming assignments. We call these meetings "Career Services Info Sessions", or just "Info Sessions". If you ever have questions about the coursework, reach out to your advisor.
 
@@ -106,8 +106,8 @@ Once your project is passing all objectives, we will remove the Academic Warning
 
 The student handbook (an upcoming lesson in this pre-work) covers the Academic Warning Policy in detail. Please make sure you have reviewed the following sections and reach out to your instructor or advisor with any questions:
 
-*  [The Academic Warning Policy](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#the-academic-warning-policy)
-*  [Failure to meet requirements](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#failure-to-meet-requirements)
+*  [The Academic Warning Policy](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#the-academic-warning-policy)
+*  [Failure to meet requirements](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#failure-to-meet-requirements)
 
 ## [Course Requirements and Expectations](#course-requirements)
 

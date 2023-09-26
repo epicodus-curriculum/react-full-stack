@@ -1,4 +1,4 @@
-In this lesson, we'll go into detail about how the attendance system and policy works at Epicodus. The content in this lesson can be found in an abbreviated form in [the student handbook's _Attendance_ section](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#attendance), and it applies to both online students and students who are attending class in-person.
+In this lesson, we'll go into detail about how the attendance system and policy works at Epicodus. The content in this lesson can be found in an abbreviated form in [the student handbook's _Attendance_ section](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#attendance), and it applies to both online students and students who are attending class in-person.
 
 Our attendance policy serves to reinforce the everyday expectation that all students engage with their peers, the curriculum, and Epicodus staff. Whether you are studying online or in-person, you are expected to pair, spend the day coding, take part in all meetings with Epicodus staff, and participate in communication on the Discord server or in class as needed. If you have any concerns about being able to meet attendance requirements, talk to your instructor.
 
@@ -169,7 +169,7 @@ Once you submit your pair feedback, you should see a banner message that says go
 ## [Attendance for Independent Projects](#attendance-for-independent-projects)
 ---
 
-**For independent coding projects, you will not use the Epicenter attendance feature.** Instead, your attendance will be based on your project's commit history, which you will learn more about in the first course section. General information on independent projects can be found in this lesson: [Independent Projects and Code Reviews](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/independent-projects-and-code-reviews).
+**For independent coding projects, you will not use the Epicenter attendance feature.** Instead, your attendance will be based on your project's commit history, which you will learn more about in the first course section. General information on independent projects can be found in this lesson: [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/independent-projects-and-code-reviews).
 
 ## [Attending Meetings](#attending-meetings)
 ---

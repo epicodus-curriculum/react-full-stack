@@ -39,4 +39,4 @@ As needed, we will modify these agreements as a group to meet the needs of the c
 
 If there is anything you feel is missing in our community agreements, please let us know. You can leave an anonymous suggestion for a new community agreement through the recurring survey that you complete along with your independent coding projects. In those surveys, there is a question that asks about your experience of the DEI curriculum and whether you have any additions for the community agreements.
 
-There are other ways to give feedback, too, all of which we outline in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback). 
+There are other ways to give feedback, too, all of which we outline in [the student handbook](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback). 

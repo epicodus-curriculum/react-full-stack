@@ -11,4 +11,4 @@ Congratulations! You've made it through Epicodus's classwork! That's _twenty wee
 
 Submit your project for review to the **Independent Capstone Project** code review on [Epicenter](https://epicenter.epicodus.com/).
 
-Visit [code review requirements](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit your code, how feedback works and course completion requirements.
+Visit [code review requirements](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit your code, how feedback works and course completion requirements.

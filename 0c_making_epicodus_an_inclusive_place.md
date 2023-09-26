@@ -14,7 +14,7 @@ In this lesson, we introduce the five principle aspects of our DEI curriculum. A
 
 ### [Community Agreements](#community-agreements)
 
-DEI discussions can be emotionally charged and uncomfortable at times, so we created a set of community agreements to guide students towards a respectful and educational conversation. In the next pre-work lesson, we will review the community agreements in detail. You can also find the community agreements listed on Discord's #welcome channel, and [at this location on LearnHowToProgram.com](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/community-agreements).
+DEI discussions can be emotionally charged and uncomfortable at times, so we created a set of community agreements to guide students towards a respectful and educational conversation. In the next pre-work lesson, we will review the community agreements in detail. You can also find the community agreements listed on Discord's #welcome channel, and [at this location on LearnHowToProgram.com](https://new.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/community-agreements).
 
 ### [Workshops](#workshops)
 
@@ -22,10 +22,10 @@ Also referred to as “DEI workshops”, these are quarterly events facilitated 
 
 ### [Lessons](#written-lesson)
 
-Written DEI lessons range from topics on diversity and equity to preventing microaggressions. These lessons are integrated into the technical curriculum, appearing once in a section, or every other section. These give you the opportunity to learn more in depth about a particular subject. These are always listed as homework. [Visit this link to see all of the DEI lessons](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons).
+Written DEI lessons range from topics on diversity and equity to preventing microaggressions. These lessons are integrated into the technical curriculum, appearing once in a section, or every other section. These give you the opportunity to learn more in depth about a particular subject. These are always listed as homework. [Visit this link to see all of the DEI lessons](https://new.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons).
 
 ### [Reflective Assignments](#reflective-assignments)
 
-For each DEI lesson, there is a corresponding reflective assignment in which we give you a prompt and ask you to write a short, reflective response to it. There's no length requirement for these reflections. Rather, the goal is to give you an opportunity to reflect and engage with important DEI topics by yourself — so, write as little or as much as you feel inspired to. Completing these assignments is optional, but highly encouraged. You can learn more about writing reflections [in this lesson](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/dei-reflective-assignments). 
+For each DEI lesson, there is a corresponding reflective assignment in which we give you a prompt and ask you to write a short, reflective response to it. There's no length requirement for these reflections. Rather, the goal is to give you an opportunity to reflect and engage with important DEI topics by yourself — so, write as little or as much as you feel inspired to. Completing these assignments is optional, but highly encouraged. You can learn more about writing reflections [in this lesson](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/dei-reflective-assignments). 
 
 At Epicodus, learning about diversity, equity, and inclusion is an important part of our curriculum and we ask all students to take it as seriously as learning how to code.

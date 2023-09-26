@@ -1,7 +1,7 @@
 ---
 title: React (Part-Time)
 id: index
-slug: /react_part_time
+slug: /react-part-time
 hide_table_of_contents: true
 sidebar_position: 0
 ---

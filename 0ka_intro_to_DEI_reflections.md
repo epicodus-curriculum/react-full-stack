@@ -2,9 +2,9 @@
 
 ---
 
-Diversity, Equity, and Inclusion (DEI) curriculum at Epicodus includes quarterly workshops, lessons integrated throughout each learning track, and reflective assignments for each lesson. We outline the DEI curriculum in the lesson [Making Epicodus an Inclusive Place](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/making-epicodus-an-inclusive-place).
+Diversity, Equity, and Inclusion (DEI) curriculum at Epicodus includes quarterly workshops, lessons integrated throughout each learning track, and reflective assignments for each lesson. We outline the DEI curriculum in the lesson [Making Epicodus an Inclusive Place](https://new.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-curriculum-overview/making-epicodus-an-inclusive-place).
 
-In this lesson, we’ll discuss the reflective assignments that are tied to each DEI lesson. We also call these assignments “personal reflections”, in which you'll be given a prompt that you’ll write a short, reflective response to. You will write one personal reflection for every DEI lesson. The DEI lessons are integrated throughout each learning course, however [you can find every DEI lesson listed here](https://www.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons) to get a preview of what's to come. To help you stay on track with theses assignments, at the end of every DEI lesson, we remind students to write their personal reflection and share a link to the reflection prompt on Epicenter.
+In this lesson, we’ll discuss the reflective assignments that are tied to each DEI lesson. We also call these assignments “personal reflections”, in which you'll be given a prompt that you’ll write a short, reflective response to. You will write one personal reflection for every DEI lesson. The DEI lessons are integrated throughout each learning course, however [you can find every DEI lesson listed here](https://new.learnhowtoprogram.com/diversity-equity-and-inclusion/dei-lessons) to get a preview of what's to come. To help you stay on track with theses assignments, at the end of every DEI lesson, we remind students to write their personal reflection and share a link to the reflection prompt on Epicenter.
 
 **Engaging in these reflective assignments is optional, but highly encouraged!** Whereas our workshops are focused on group work, these reflective assignments are an opportunity for you to reflect and engage with important DEI topics by yourself.
 
@@ -22,7 +22,7 @@ If you do not want to engage with a reflection prompt, please write in "decline"
 
 The reflection prompt is found on Epicenter in the same course that the DEI lesson reading is assigned. In the homepage of every technical course on Epicenter, there are code reviews listed as well as personal reflection prompts.
 
-For example, in “Arrays and Looping”, the third section of the _Introduction to Programming_ course, we assign the lesson [Equity versus Equality](https://www.learnhowtoprogram.com/introduction-to-programming/arrays-and-looping/homework-equality-versus-equity). That means the reflection prompt for “Equity versus Equality” can be found on Epicenter in the _Introduction to Programming_ course. 
+For example, in “Arrays and Looping”, the third section of the _Introduction to Programming_ course, we assign the lesson [Equity versus Equality](https://new.learnhowtoprogram.com/introduction-to-programming/arrays-and-looping/homework-equality-versus-equity). That means the reflection prompt for “Equity versus Equality” can be found on Epicenter in the _Introduction to Programming_ course. 
 
 To make things straightforward, every DEI lesson has a link at the bottom of the page that you can click to navigate directly to the reflection prompt on Epicenter.
 
@@ -36,4 +36,4 @@ If you Follow these steps to find the reflection prompt for the DEI lesson you f
 
 ### [Giving Feedback](#giving-feedback)
 
-We hope you find these reflective assignments to be thought-provoking! We always welcome feedback on your experience of the DEI curriculum, including these reflective assignments. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback). 
+We hope you find these reflective assignments to be thought-provoking! We always welcome feedback on your experience of the DEI curriculum, including these reflective assignments. We outline all of the ways you can give feedback in [the student handbook](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback). 
