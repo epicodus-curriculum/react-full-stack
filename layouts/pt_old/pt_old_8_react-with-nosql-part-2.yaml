@@ -24,6 +24,6 @@ lessons:
     day: wednesday
     type: exercise
   - title: React with NoSQL Independent Project
-    filename: 5a_react_with_nosql_independent_project.md
+    filename: 5a_react_with_nosql_independent_project_old.md
     day: thursday
     type: exercise

@@ -4,7 +4,7 @@ repo: react-full-stack
 directory: 2_functional-programming-with-javascript
 lessons:
   - title: Functional Programming with JavaScript Objectives
-    filename: 0a_functional_programming_objectives.md
+    filename: 0a_functional_programming_objectives_old.md
     day: weekend
     type: lesson
   - title: Introduction to Functional Programming
@@ -164,6 +164,6 @@ lessons:
     type: exercise
     repo: career-services-full-stack
   - title: Functional Programming with JavaScript Independent Project
-    filename: 5a_classwork_functional_programming_independent_project.md
+    filename: 5a_classwork_functional_programming_independent_project_old.md
     day: friday
     type: exercise
