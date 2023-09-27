@@ -80,6 +80,16 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
+  - title: 'Journal #7'
+    filename: 1_week_seven_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: 'Journal #7 Discussion'
+    filename: 2_week_seven_journal_discussion_classwork.md
+    day: weekend
+    type: exercise
+    repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
     day: monday
