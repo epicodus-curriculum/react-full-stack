@@ -10,6 +10,6 @@ lessons:
     repo: shared-full-stack
   - title: Team Week Presentations and Code Review
     filename: team_week_presentations_and_code_review.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: shared-full-stack

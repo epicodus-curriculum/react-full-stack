@@ -5,40 +5,36 @@ directory: 5_react-fundamentals-part-2
 lessons:
   - title: Help Queue, Merch Site, Event Logger (Multi-day Project)
     filename: 3a_classwork_help_queue_merch_site_event_logger_two_day.md
-    day: sunday
+    day: monday
     type: exercise
   - title: 'Overview of Next Steps: Adding READ, UPDATE, and DELETE Functionality'
-    filename: 3ab_wednesday_homework_preface.md
-    day: sunday
+    filename: 3ab_thursday_homework_preface.md
+    day: monday
     type: lesson
   - title: 'Planning Our Application: Part 3'
     filename: 3b_planning_our_application_part_3.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Using JSX Expressions with Arguments
     filename: 3c_using_jsx_expressions_with_arguments.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Showing Ticket Detail
     filename: 3d_showing_ticket_detail.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Deleting a Ticket
     filename: 3e_deleting_a_ticket.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Reusing Components
     filename: 3f_reusing_components.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Updating a Ticket
     filename: 3g_updating_a_ticket.md
-    day: sunday
-    type: lesson
-  - title: Help Queue, Merch Site, Event Logger (Multi-day Project)
-    filename: 3a_classwork_help_queue_merch_site_event_logger_two_day.md
     day: monday
-    type: exercise
+    type: lesson
   - title: Help Queue, Merch Site, Event Logger (Multi-day Project)
     filename: 3a_classwork_help_queue_merch_site_event_logger_two_day.md
     day: tuesday
@@ -47,7 +43,11 @@ lessons:
     filename: 3a_classwork_help_queue_merch_site_event_logger_two_day.md
     day: wednesday
     type: exercise
+  - title: Help Queue, Merch Site, Event Logger (Multi-day Project)
+    filename: 3a_classwork_help_queue_merch_site_event_logger_two_day.md
+    day: thursday
+    type: exercise
   - title: React Fundamentals Independent Project
     filename: 5a_classwork_react_fundamentals_independent_project.md
-    day: thursday
+    day: friday
     type: exercise

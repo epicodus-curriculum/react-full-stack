@@ -5,25 +5,29 @@ directory: 9_react-with-nosql-part-2
 lessons:
   - title: Choose Your Own Adventure (One-Week Project) - Part 1
     filename: 3a_classwork_choose_your_own_adventure.md
-    day: sunday
+    day: monday
     type: exercise
   - title: Styled Components
     filename: 3b_styled_components.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Further Exploration Opportunities
     filename: 3c_further_exploration_with_firebase.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Choose Your Own Adventure (One-Week Project) - Part 2
-    filename: 3a_classwork_choose_your_own_adventure_2.md
-    day: tuesday
+    filename: 3a_classwork_choose_your_own_adventure.md
+    day: monday
     type: exercise
   - title: Choose Your Own Adventure (One-Week Project) - Part 3
-    filename: 3a_classwork_choose_your_own_adventure_3.md
+    filename: 3a_classwork_choose_your_own_adventure_2.md
     day: wednesday
+    type: exercise
+  - title: Choose Your Own Adventure (One-Week Project) - Part 4
+    filename: 3a_classwork_choose_your_own_adventure_3.md
+    day: thursday
     type: exercise
   - title: React with NoSQL Independent Project
     filename: 5a_react_with_nosql_independent_project.md
-    day: thursday
+    day: friday
     type: exercise

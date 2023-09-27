@@ -87,85 +87,85 @@ lessons:
     repo: career-services-full-stack
   - title: 'Journal #7 Discussion'
     filename: 2_week_seven_journal_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: Coin Counter, Sieve
     filename: 1a_classwork_coin_counter_sieve.md
-    day: sunday
+    day: monday
     type: exercise
   - title: 'Whiteboard Practice: Closures'
     filename: 1b_classwork_whiteboard_closure_practice.md
-    day: sunday
+    day: monday
     type: exercise
   - title: 'Whiteboard Practice: Recursion'
     filename: 1c_classwork_whiteboard_recursion_practice.md
-    day: sunday
+    day: monday
     type: exercise
   - title: The Problems of Classical Inheritance
     filename: 0h_the_problems_of_classical_inheritance.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Spread Operator
     filename: 0i_spread_operator.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Composition
     filename: 0k_composition.md
-    day: sunday
+    day: monday
     type: lesson
   - title: State
     filename: 0ka_state.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Storing State in Closures
     filename: 0kb_storing_state_in_closures.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Building a Functional Application (Part 1)
     filename: 0l_building_a_functional_application.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Building a Functional Application (Part 2)
     filename: 0m_building_a_functional_application_part_2.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Power Plant, Project Euler (Two-day Project)
     filename: 2a_classwork_power_plant_project_euler.md
-    day: monday
+    day: tuesday
     type: exercise
   - title: 'Whiteboard Practice: Composition'
     filename: 2b_classwork_whiteboard_composition.md
-    day: monday
+    day: tuesday
     type: exercise
   - title: Power Plant, Project Euler (Two-day Project)
     filename: 2a_classwork_power_plant_project_euler.md
-    day: tuesday
+    day: wednesday
     type: exercise
   - title: 'Whiteboard Practice: Composition'
     filename: 2b_classwork_whiteboard_composition.md
-    day: tuesday
+    day: wednesday
     type: exercise
   - title: 'Further Exploration: Creating Deep Clones'
     filename: 0ia_creating_deep_clones.md
-    day: tuesday
+    day: wednesday
     type: lesson
   - title: Epicodus Job Board
     filename: epicodus_job_board_classwork.md
-    day: wednesday
+    day: thursday
     type: exercise
     repo: career-services-full-stack
   - title: 'Technical Interview Preparation: Functional Programming'
     filename: 4a_classwork_technical_interview_prep_functional_programming.md
-    day: wednesday
+    day: thursday
     type: exercise
   - title: Addressing Implicit Bias
     filename: addressing_implicit_bias.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: DEI-full-stack
