@@ -47,10 +47,11 @@ lessons:
     filename: 0k_context_best_practices_and_alternatives_and_further_exploration.md
     day: weekend
     type: lesson
-  - title: Pitching Your Capstone
-    filename: 0l_pitching_your_capstone.md
+  - title: 'Team Week: Project Pitch'
+    filename: team_week_project_pitch.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: 'Journal #17 Prompt'
     filename: 1_week_19_prompt.md
     day: weekend
