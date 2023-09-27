@@ -10,8 +10,8 @@ This lesson will outline the requirements and expectations for this course secti
 
 You will have time set aside during class hours to apply to internships during the Capstone course section. To learn more, read through the lesson:
 
-* [For full-time students](https://www.learnhowtoprogram.com/react/independent-capstone/career-services-day) 
-* [For part-time students](https://www.learnhowtoprogram.com/react-part-time/independent-capstone-part-2/career-services-day)
+* [For full-time students](https://new.learnhowtoprogram.com/react/independent-capstone/career-services-day) 
+* [For part-time students](https://new.learnhowtoprogram.com/react-part-time/independent-capstone-part-2/career-services-day)
 
 If you have any questions, check in with your advisor.
 
@@ -59,6 +59,6 @@ Additionally, allow time for any questions your audience may have.
 
 Submit the link to your project's GitHub repository to the **Independent Capstone Project**  code review on [Epicenter](https://epicenter.epicodus.com/) **before the end of the final class session.**
 
-Visit [Independent Projects and Code Reviews](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit your code, how feedback works and course completion requirements.
+Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit your code, how feedback works and course completion requirements.
 
 

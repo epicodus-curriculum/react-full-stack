@@ -41,7 +41,7 @@ You may be wondering what to do if our application has complex state and many di
 
 ### Creating and Updating State in a React Application
 
-As we discussed in the [React Components](https://www.learnhowtoprogram.com/react/react-fundamentals/react-components) lesson, class components have a constructor that looks like this:
+As we discussed in the [React Components](https://new.learnhowtoprogram.com/react/react-fundamentals/react-components) lesson, class components have a constructor that looks like this:
 
 ```js
 constructor(props) {
