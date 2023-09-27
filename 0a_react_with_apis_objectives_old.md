@@ -3,6 +3,7 @@ In this course section, we'll explore the following:
 * Making API calls from a React application
 * Using the `useReducer()` hook to manage state
 * Using React context to transfer data between two components
+* Building a full stack application using a React front end and a .NET or Rails API
 
 We'll also offer a number of optional lessons to give you starting points for doing further exploration on your own. These will include lessons on the following topics:
 

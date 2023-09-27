@@ -51,10 +51,6 @@ lessons:
     filename: 0ga_recursion.md
     day: weekend
     type: lesson
-  - title: Capstone Timeline, Deadlines, and Brainstorming Homework
-    filename: 0mb_capstone_project_brainstorming_homework.md
-    day: weekend
-    type: lesson
   - title: 'Capstone Planning: The Minimum Viable Product'
     filename: 0n_the_minimum_viable_product.md
     day: weekend
@@ -83,6 +79,16 @@ lessons:
     filename: 5_giving_constructive_feedback.md
     day: weekend
     type: lesson
+    repo: career-services-full-stack
+  - title: 'Journal #7'
+    filename: 1_week_seven_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: 'Journal #7 Discussion'
+    filename: 2_week_seven_journal_discussion_classwork.md
+    day: weekend
+    type: exercise
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md

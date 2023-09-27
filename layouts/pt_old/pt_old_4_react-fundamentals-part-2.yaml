@@ -32,7 +32,7 @@ lessons:
     day: sunday
     type: lesson
   - title: Updating a Ticket
-    filename: 3g_updating_a_ticket.md
+    filename: 3g_updating_a_ticket_old.md
     day: sunday
     type: lesson
   - title: Help Queue, Merch Site, Event Logger (Multi-day Project)

@@ -1,10 +1,10 @@
 So far, we've used JavaScript to build browser applications. When we want to try out snippets of code, we've used the console in Chrome Developer Tools or an online development environment like Codepen.
 
- A REPL is a tool we can use to evaluate code in the terminal. With JavaScript, we can use Node to run our code in the terminal. Node is a runtime environment just like the browser. The difference is that the browser is a client-side environment while Node is a server-side environment. To distill this a little further, JavaScript in the browser is "front end" code while JavaScript using Node is "back end" code.
+If you are a full-time student, you have experience using a REPL (Read - Evaluate - Print - Loop) — either with C# or Ruby. A REPL is a tool we can use to evaluate code in the terminal. With JavaScript, we can use Node to run our code in the terminal. Node is a runtime environment just like the browser. The difference is that the browser is a client-side environment while Node is a server-side environment. To distill this a little further, JavaScript in the browser is "front end" code while JavaScript using Node is "back end" code.
 
 Both Node and Chrome use the V8 JavaScript engine. The V8 JavaScript engine is an open-source project developed by Google and written in C++. It uses just-in-time (JIT) compiling to translate JavaScript into code our machines can understand. This makes the V8 engine extremely fast, which is part of the reason Node is a popular solution for server-side projects.
 
-We will not cover Node in depth in this course. However, we can use Node both as a REPL (Read - Evaluate - Print - Loop) and as a tool to run our JavaScript programs. (If Node is not installed on your personal machine yet, see the [installation instructions here](https://new.learnhowtoprogram.com/intermediate-javascript/setting-up-javascript/installing-nodejs)).
+We will not cover Node in depth in this course. However, we can use Node both as a REPL (Read - Evaluate - Print - Loop) and as a tool to run our JavaScript programs. (If Node is not installed on your personal machine yet, see the [installation instructions here](https://www.learnhowtoprogram.com/intermediate-javascript/setting-up-javascript/installing-node-js)).
 
 To use Node as a REPL, simply type `node` in the Terminal.
 

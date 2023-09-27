@@ -1,0 +1,15 @@
+section: Team Week Part 2
+order: 13
+repo: react-full-stack
+directory: 13_team-week-part-2
+lessons:
+  - title: Team Week Objectives
+    filename: team_week_objectives.md
+    day: weekend
+    type: lesson
+    repo: shared-full-stack
+  - title: Team Week Presentations and Code Review
+    filename: team_week_presentations_and_code_review.md
+    day: wednesday
+    type: lesson
+    repo: shared-full-stack

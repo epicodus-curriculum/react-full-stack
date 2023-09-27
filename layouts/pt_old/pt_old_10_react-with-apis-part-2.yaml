@@ -4,7 +4,7 @@ repo: react-full-stack
 directory: 11_react-with-apis-part-2
 lessons:
   - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: sunday
     type: exercise
   - title: 'Further Exploration: Creating a Custom React Environment'
@@ -20,11 +20,11 @@ lessons:
     day: sunday
     type: lesson
   - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: monday
     type: exercise
   - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: tuesday
     type: exercise
   - title: 'Technical Interview Practice: APIs and Further Exploration'
@@ -32,7 +32,7 @@ lessons:
     day: wednesday
     type: exercise
   - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: wednesday
     type: exercise
   - title: Continued Work on your Capstone

@@ -16,7 +16,7 @@ lessons:
     day: weekend
     type: lesson
   - title: Using Node in the Command Line
-    filename: 0c_using_node_in_the_command_line.md
+    filename: 0c_using_node_in_the_command_line_old.md
     day: weekend
     type: lesson
   - title: Immutability
@@ -90,7 +90,7 @@ lessons:
     type: lesson
     repo: pre-work-full-stack
   - title: Coin Counter, Sieve
-    filename: 1a_classwork_coin_counter_sieve.md
+    filename: 1a_classwork_coin_counter_sieve_old.md
     day: monday
     type: exercise
   - title: 'Whiteboard Practice: Closures'
@@ -102,7 +102,7 @@ lessons:
     day: monday
     type: exercise
   - title: The Problems of Classical Inheritance
-    filename: 0h_the_problems_of_classical_inheritance.md
+    filename: 0h_the_problems_of_classical_inheritance_old.md
     day: monday
     type: lesson
   - title: Spread Operator

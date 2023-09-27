@@ -4,11 +4,11 @@ repo: react-full-stack
 directory: 10_react-with-apis
 lessons:
   - title: APIs and Full Stack Development Objectives
-    filename: 0a_react_with_apis_objectives.md
+    filename: 0a_react_with_apis_objectives_old.md
     day: weekend
     type: lesson
   - title: Full Stack Development Project
-    filename: 0b_fullstack_development.md
+    filename: 0b_fullstack_development_old.md
     day: weekend
     type: lesson
   - title: 'NY Times API: Making an API Call with fetch and useState'
@@ -67,11 +67,11 @@ lessons:
     type: exercise
     repo: career-services-full-stack
   - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: sunday
     type: exercise
   - title: 'Further Exploration: React Native'
-    filename: 1b_further_exploration_react_native.md
+    filename: 1b_further_exploration_react_native_old.md
     day: sunday
     type: lesson
   - title: 'Further Exploration: SEO with React'
@@ -79,7 +79,7 @@ lessons:
     day: sunday
     type: lesson
   - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: monday
     type: exercise
   - title: Applying for Jobs

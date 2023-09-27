@@ -50,7 +50,7 @@ You also have to separate ones, tens, hundreds, and thousands. In other words, 9
 
 ### Prime Sifting
 
-The goal in solving this problem is to use recursion!
+You may have solved this problem in C# or Ruby. This time, your goal is to solve it using recursion!
 
 Given a number, write a method that returns all of the prime numbers less than that number.
 

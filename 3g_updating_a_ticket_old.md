@@ -320,6 +320,6 @@ At this point, a senior dev on the team would say it's time to refactor. This me
 
 In this lesson, we added several behaviors to our Help Queue application. First, we planned out the new behaviors our application needs and listed all the steps we need to take to implement these behaviors. While it's not necessary to write down all of these steps, it can be helpful for newcomers to React.
 
-Next, we added functionality to show an edit form (local state) and then update a ticket in our `mainTicketList` (shared state). Once again, we had to deal with a lot of little pieces. It may even seem like we needed to add a huge and overly complicated amount of code when we could do a fairly simple implementation with vanilla JS. 
+Next, we added functionality to show an edit form (local state) and then update a ticket in our `mainTicketList` (shared state). Once again, we had to deal with a lot of little pieces — and it's considerably more involved than adding a few routes in Rails or .NET. It may even seem like we needed to add a huge and overly complicated amount of code when we could do a fairly simple implementation with vanilla JS. 
 
 However, we've written dynamic, modular and scalable code that lends itself well to further expansion. If all the steps are still overwhelming, trust the process — learning a new library or framework is always challenging and React is no different. In a few weeks, working with these concepts will become second nature.
