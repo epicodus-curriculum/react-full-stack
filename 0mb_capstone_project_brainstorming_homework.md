@@ -31,7 +31,7 @@ Keep the following deadlines in mind. You’ll receive more information about ea
 
     *  Due date: For full-time and part-time students, this will be turned in as part of your React with Redux code review. 
 
-* **Trade Show**:  Similar to the group projects you've completed in other courses, you are required to pitch and demo your application to your Epicodus classmates during the final class session. More information may be found [here](https://new.learnhowtoprogram.com/lessons/independent-capstone-project-week-overview). This is good practice for pitching your application to potential employers.
+* **Trade Show**:  Similar to the group projects you've completed in other courses, you are required to pitch and demo your application to your Epicodus classmates during the final class session. More information may be found [here](https://new.learnhowtoprogram.com/react-classic/independent-capstone/independent-capstone-project-week-overview). This is good practice for pitching your application to potential employers.
 
     *  Due date: For full-time and part-time students, the trade show happens on the very last day of class. This is also when you will submit your capstone on Epicenter as your final independent project.
 

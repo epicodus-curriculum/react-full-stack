@@ -23,7 +23,7 @@ You may need to review lessons on test-driven development, using Jest, and setti
   * [Setting Up Babel](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/setting-up-babel)
 * The following lessons demonstrate using TDD to build out business logic in the Shape Tracker project:
   * [TDD with Jest: Testing the Triangle() Constructor](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/tdd-with-jest-testing-the-triangle-constructor)
-  * [TDD with Jest: Testing the Triangle.prototype.checkType() Method](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/tdd-with-jest-testing-the-triangle-prototype-checktype-method)
+  * [TDD with Jest: Testing the Triangle.prototype.checkType() Method](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/tdd-with-jest-testing-the-triangleprototypechecktype-method)
 * The following lessons explain best practices and additional tools we can implement to improve our testing experience with Jest:
   * [Testing Best Practices](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/testing-best-practices)
   * [Expanding our Testing Tools: Adding Setup and Teardown](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/expanding-our-testing-tools-adding-setup-and-teardown)
