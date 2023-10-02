@@ -70,60 +70,60 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #16 Discussion'
     filename: 2_week_18_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
   - title: Firestore Survey, Quiz of Choice (Three-Day Project) - Part 1
     filename: 1a_classwork_firestore_survey_quiz_of_choice.md
-    day: sunday
+    day: monday
     type: exercise
   - title: Client-Side Routing
     filename: 1b_client_side_routing.md
-    day: sunday
+    day: monday
     type: lesson
   - title: React Router
     filename: 1c_react_router.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Firebase Authentication
     filename: 1d_firebase_authentication.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Firebase Authorization
     filename: 1e_firebase_authorization.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Firestore Survey, Quiz of Choice (Three-Day Project) - Part 2
     filename: 1a_classwork_firestore_survey_quiz_of_choice_2.md
-    day: monday
+    day: tuesday
     type: exercise
   - title: Firestore Survey, Quiz of Choice (Three-Day Project) - Part 3
     filename: 1a_classwork_firestore_survey_quiz_of_choice_3.md
-    day: tuesday
+    day: wednesday
     type: exercise
   - title: Applying for Jobs
     filename: classwork_applying_for_jobs.md
-    day: wednesday
+    day: thursday
     type: exercise
     repo: career-services-full-stack
   - title: 'Technical Interview Practice: NoSQL'
     filename: 4a_technical_interview_practice_nosql_classwork.md
-    day: wednesday
+    day: thursday
     type: exercise
   - title: Firestore Queries
     filename: 2a_firestore_queries.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: Adding Wait Time to the Queue
     filename: 2b_adding_wait_time_to_the_queue.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: Hosting with Firebase
     filename: 2c_hosting_with_firebase.md
-    day: wednesday
+    day: thursday
     type: lesson

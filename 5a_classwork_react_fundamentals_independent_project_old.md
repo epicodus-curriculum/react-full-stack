@@ -1,20 +1,22 @@
 ## Independent Projects Overview
 ---
 
-Project prompts will be available on Epicenter at 8:00 am Friday for both full-time and part-time students. Before you begin your project, make sure to take a moment to review the [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) lesson.
+Project prompts will be available on Epicenter at 8:00 am Friday for full-time students and 8:00 am on Thursday for part-time students. Before you begin your project, make sure to take a moment to review the [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) lesson.
 
-## React with Redux Project Objectives
+## React Fundamentals Project Objectives
 ---
 
-Your submission will be reviewed for the following objectives:
+Even though you have learned full CRUD in this section, **you will only be expected to add CREATE, READ, and UPDATE functionality for the independent project.**
 
-* Redux successfully manages all shared state.
-* All Redux reducers are pure functions.
-* Jest is used to test all reducers.
-* Actions are successfully dispatched to specify changes to state.
-* Reducers receive and handle actions to correctly mutate the store's state.
+Your code will be reviewed for the following objectives:
+
+* Application compiles and runs without error, and warnings in the DevTools console are resolved.
+* Functional and class components are used correctly.
+* Application effectively uses local and shared state.
+* Props are used correctly and always include `PropTypes`.
+* README includes an accurate representation of the application's component tree.
 * Project is in a polished, portfolio-quality state.
-* The prompt’s required functionality and baseline project requirements are in place by the deadline.
+* The prompt's required functionality and baseline project requirements are in place by the deadline.
 
 ### What is a polished, portfolio-quality state?
 When a project is both polished and in a portfolio-quality state, this means:
@@ -34,6 +36,6 @@ All independent coding projects at Epicodus have these baseline requirements:
 ## Submission
 ---
 
-Submit your code for review to the **React with Redux** code review on [Epicenter](https://epicenter.epicodus.com/).
+Submit your code for review to the **React Fundamentals** code review on [Epicenter](https://epicenter.epicodus.com/).
 
 Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit, how feedback works and course completion requirements.

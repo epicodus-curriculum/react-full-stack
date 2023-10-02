@@ -82,6 +82,10 @@ lessons:
     filename: 1a_classwork_react_with_api_three_day_project_old.md
     day: monday
     type: exercise
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project_old.md
+    day: tuesday
+    type: exercise
   - title: Applying for Jobs
     filename: classwork_applying_for_jobs.md
     day: wednesday

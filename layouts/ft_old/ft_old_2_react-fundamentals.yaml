@@ -183,6 +183,6 @@ lessons:
     type: lesson
     repo: career-services-full-stack
   - title: React Fundamentals Independent Project
-    filename: 5a_classwork_react_fundamentals_independent_project.md
+    filename: 5a_classwork_react_fundamentals_independent_project_old.md
     day: friday
     type: exercise

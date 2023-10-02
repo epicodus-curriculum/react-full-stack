@@ -40,16 +40,16 @@ lessons:
     repo: shared-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: Pull Requests with Branches
     filename: pull_requests_with_branches.md
-    day: sunday
+    day: monday
     type: lesson
     repo: shared-full-stack
   - title: Pull Requests with Forks
     filename: pull_requests_with_forks.md
-    day: monday
+    day: tuesday
     type: lesson
     repo: shared-full-stack

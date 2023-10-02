@@ -59,47 +59,51 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #17 Discussion'
     filename: 2_week_19_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
-  - title: React with API (Multi-Week Project)
-    filename: 1a_classwork_react_with_api_three_day_project.md
-    day: sunday
-    type: exercise
-  - title: 'Further Exploration: React Native'
-    filename: 1b_further_exploration_react_native.md
-    day: sunday
-    type: lesson
-  - title: 'Further Exploration: SEO with React'
-    filename: 1c_further_exploration_seo_with_react.md
-    day: sunday
-    type: lesson
   - title: React with API (Multi-Week Project)
     filename: 1a_classwork_react_with_api_three_day_project.md
     day: monday
     type: exercise
+  - title: 'Further Exploration: React Native'
+    filename: 1b_further_exploration_react_native.md
+    day: monday
+    type: lesson
+  - title: 'Further Exploration: SEO with React'
+    filename: 1c_further_exploration_seo_with_react.md
+    day: monday
+    type: lesson
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: tuesday
+    type: exercise
+  - title: React with API (Multi-Week Project)
+    filename: 1a_classwork_react_with_api_three_day_project.md
+    day: wednesday
+    type: exercise
   - title: Applying for Jobs
     filename: classwork_applying_for_jobs.md
-    day: wednesday
+    day: thursday
     type: exercise
     repo: career-services-full-stack
   - title: Following Up During the Job Application Process
     filename: 6_Follow-Up_During_the_Job_Application_Process.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack
   - title: Expand Your Job Search Network Through Cold Emailing
     filename: 7_Expand_your_Job_Search_Network_through_Cold_Emailing.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack
   - title: Tools for Email Management
     filename: 8_Tools_for_Email_Management.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack
