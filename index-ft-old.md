@@ -1,7 +1,7 @@
 ---
 title: React (Pre-October Cohorts)
 id: index
-slug: /react-classic
+slug: /react
 hide_table_of_contents: true
 sidebar_position: 0
 ---
