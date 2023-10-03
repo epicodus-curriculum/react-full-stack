@@ -1,7 +1,7 @@
 ## Independent Projects Overview
 ---
 
-Before you begin your project, make sure to take a moment to review the [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) lesson.
+Before you begin your project, make sure to take a moment to review the [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) lesson.
 
 ## Functional Programming Project Objectives
 ---
@@ -38,4 +38,4 @@ Make sure to utilize GitHub to track the creation of your boards, and your capst
 
 Submit your code for review to the **Functional Programming with JavaScript** code review on [Epicenter](https://epicenter.epicodus.com/).
 
-Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit, how feedback works and course completion requirements.
+Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit, how feedback works and course completion requirements.

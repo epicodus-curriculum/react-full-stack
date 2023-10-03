@@ -59,6 +59,6 @@ Additionally, allow time for any questions your audience may have.
 
 Submit the link to your project's GitHub repository to the **Independent Capstone Project**  code review on [Epicenter](https://epicenter.epicodus.com/) **before the end of the final class session.**
 
-Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit your code, how feedback works and course completion requirements.
+Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit your code, how feedback works and course completion requirements.
 
 
