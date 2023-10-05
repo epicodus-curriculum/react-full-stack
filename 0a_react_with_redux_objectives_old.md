@@ -20,4 +20,4 @@ You will not be expected to incorporate the concepts of this section into your i
 * Project includes capstone proposal.
 * README includes an overview of the project.
 
-**You can preview the exact instructions and requirements for the React with Redux code review by reading the [React with Redux Independent Project](https://new.learnhowtoprogram.com/react/react-with-redux/react-with-redux-independent-project) lesson at the end of this section.**
+**You can preview the exact instructions and requirements for the React with Redux code review by reading the [React with Redux Independent Project](/react/react-with-redux/react-with-redux-independent-project) lesson at the end of this section.**

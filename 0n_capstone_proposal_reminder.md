@@ -8,8 +8,8 @@ If you are still undecided by the sign up deadline, reach out and let your instr
 
 ### Resources
 
-More information on the capstone sign-up and proposal can be found [in this lesson](https://new.learnhowtoprogram.com/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal).
+More information on the capstone sign-up and proposal can be found [in this lesson](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal).
 
-You can review the [capstone timeline and deadlines here](https://new.learnhowtoprogram.com/react-classic/functional-programming-with-javascript/capstone-timeline-deadlines-and-brainstorming-homework).
+You can review the [capstone timeline and deadlines here](/react-classic/functional-programming-with-javascript/capstone-timeline-deadlines-and-brainstorming-homework).
 
-If you need a refresher on what an MVP is, check out [Capstone Planning: The Minimum Viable Product](https://new.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product).
+If you need a refresher on what an MVP is, check out [Capstone Planning: The Minimum Viable Product](/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product).

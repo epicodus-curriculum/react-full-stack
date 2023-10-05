@@ -1,7 +1,7 @@
 ## Independent Projects Overview
 ---
 
-Before you begin your project, make sure to take a moment to review the [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) lesson.
+Before you begin your project, make sure to take a moment to review the [Independent Projects and Code Reviews](/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) lesson.
 
 ## React with NoSQL Project Objectives
 ---
@@ -52,4 +52,4 @@ Your submission will be reviewed for the following objectives:
 
 Submit your code for review to the **React with NoSQL** code review on [Epicenter](https://epicenter.epicodus.com/).
 
-Visit [Independent Projects and Code Reviews](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit, how feedback works and course completion requirements.
+Visit [Independent Projects and Code Reviews](/pre-work/getting-started-at-epicodus/independent-projects-and-code-reviews) for details on how to submit, how feedback works and course completion requirements.

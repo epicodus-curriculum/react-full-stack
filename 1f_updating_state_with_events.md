@@ -93,7 +93,7 @@ Let's take a look at the code in our new method. There's only a single line of c
 this.setState({formVisibleOnPage: true});
 ```
 
-As we discussed in [Introduction to State](https://new.learnhowtoprogram.com/react/react-fundamentals/introduction-to-state), we should only ever modify state in a pure React application with the `setState()` method. In its simplest form, `setState()` takes an object as an argument. The object contains any key-value pairs that our application should update.
+As we discussed in [Introduction to State](/react/react-fundamentals/introduction-to-state), we should only ever modify state in a pure React application with the `setState()` method. In its simplest form, `setState()` takes an object as an argument. The object contains any key-value pairs that our application should update.
 
 Now if we run our application, we can successfully click on "Add Ticket" and our form will show.
 
