@@ -18,7 +18,7 @@ If you are still undecided by the sign up deadline, reach out and let your instr
 
 ### Capstone Project Proposal
 
-You will complete your project proposal (using the template below) and turn it in as part of your React with Redux code review. You are welcome to work on this early, if you are able. Make sure to review the homework on [Minimum Viable Products](/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) before drafting your proposal. Knowledge of MVPs will be required to complete the questions in the template.
+You will complete your project proposal (using the template below) and turn it in as part of your React with Redux code review. You are welcome to work on this early, if you are able. Make sure to review the homework on [Minimum Viable Products](https://new.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) before drafting your proposal. Knowledge of MVPs will be required to complete the questions in the template.
 
 Double-check your work for spelling, typos and punctuation, and use professional language and technical terms as you would in a project proposal completed for a supervisor or manager. 
 
@@ -63,7 +63,7 @@ The capstone proposal:
 
 
 
-**If you finish developing the [minimum viable product (MVP)](/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) with time to spare, what will you work on next? Describe these features here: Be specific.**
+**If you finish developing the [minimum viable product (MVP)](https://new.learnhowtoprogram.com/react/functional-programming-with-javascript/capstone-planning-the-minimum-viable-product) with time to spare, what will you work on next? Describe these features here: Be specific.**
 
 
 * 

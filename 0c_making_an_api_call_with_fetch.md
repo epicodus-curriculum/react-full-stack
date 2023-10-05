@@ -126,7 +126,7 @@ Once the API call is complete, the response will be converted to JSON. Then, onc
 
 If an error happens, we set `isLoaded` to true and set the `error` property to the error that the API call returns.
 
-As noted in the [Intermediate JavaScript lesson on `fetch()`](/intermediate-javascript/asynchrony-and-apis/fetch-api), a catch block with `fetch()` will only catch internal server errors — not issues like a 404 error code. Because of this, we'll need to add in additional error checking. 
+As noted in the [Intermediate JavaScript lesson on `fetch()`](https://new.learnhowtoprogram.com/intermediate-javascript/asynchrony-and-apis/fetch-api), a catch block with `fetch()` will only catch internal server errors — not issues like a 404 error code. Because of this, we'll need to add in additional error checking. 
 
 ### Adding Additional Error Handling
 
