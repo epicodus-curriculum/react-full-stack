@@ -162,6 +162,10 @@ lessons:
     filename: 4b_classwork_technical_interview_prep_react_fundamentals.md
     day: thursday
     type: exercise
+  - title: Whiteboard Practice
+    filename: 4a_whiteboarding_practice.md
+    day: thursday
+    type: exercise
   - title: Applying for Jobs
     filename: classwork_applying_for_jobs.md
     day: thursday

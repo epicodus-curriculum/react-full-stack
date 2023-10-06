@@ -164,6 +164,10 @@ lessons:
     filename: 4a_classwork_technical_interview_prep_functional_programming.md
     day: thursday
     type: exercise
+  - title: Whiteboard Practice
+    filename: 4b_classwork_whiteboard_practice_prime_checker_and_multiples.md
+    day: thursday
+    type: exercise
   - title: Epicodus Job Board
     filename: epicodus_job_board_classwork.md
     day: thursday
