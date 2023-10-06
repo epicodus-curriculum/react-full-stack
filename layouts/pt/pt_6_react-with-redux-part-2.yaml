@@ -35,6 +35,10 @@ lessons:
     filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
     day: thursday
     type: exercise
+  - title: Whiteboard Practice
+    filename: 4a_whiteboarding_practice_final.md
+    day: thursday
+    type: exercise
   - title: React with Redux Independent Project
     filename: 5a_classwork_react_with_redux_independent_project.md
     day: friday

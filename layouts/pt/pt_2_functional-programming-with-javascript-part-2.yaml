@@ -23,6 +23,10 @@ lessons:
     filename: 3a_classwork_rpg_haiku_checker.md
     day: thursday
     type: exercise
+  - title: Whiteboard Practice
+    filename: 4b_classwork_whiteboard_practice_prime_checker_and_multiples.md
+    day: thursday
+    type: exercise
   - title: Functional Programming with JavaScript Independent Project
     filename: 5a_classwork_functional_programming_independent_project.md
     day: friday

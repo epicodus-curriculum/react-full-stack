@@ -131,7 +131,11 @@ lessons:
   - title: 'Technical Interview Practice: React and Redux'
     filename: 4a_technical_interview_practice_react_and_redux.md
     day: thursday
-    type: lesson
+    type: exercise
+  - title: Whiteboard Practice
+    filename: 4a_whiteboarding_practice_final.md
+    day: thursday
+    type: exercise
   - title: Applying for Jobs
     filename: classwork_applying_for_jobs.md
     day: thursday
