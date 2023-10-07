@@ -10,8 +10,8 @@ This lesson will outline the requirements and expectations for this course secti
 
 You will have time set aside during class hours to apply to internships during the Capstone course section. To learn more, read through the lesson:
 
-* [For full-time students](/react-classic/independent-capstone/career-services-day) 
-* [For part-time students](/react-part-time-evening/independent-capstone-part-2/career-services-day)
+* [For full-time students](/react/independent-capstone/career-services-day) 
+* [For part-time students](/react/independent-capstone-part-2/career-services-day)
 
 If you have any questions, check in with your advisor.
 
