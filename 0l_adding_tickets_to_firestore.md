@@ -166,7 +166,7 @@ If you are using a random ID generator, whether from the UUID library or Firesto
 
 If the creation order of each document in a collection is important, there are two solutions to try out:
 
-1. Use a Firestore [Server Timestamp](https://firebase.google.com/docs/firestore/manage-data/add-data#server_timestamp) to mark when a document was initially created, or updated. You can then use this timestamp to sort your documents by their timestamp at creation when you query the database. We'll learn how to do this when we add [a wait time to the Help Queue](/react/react-with-nosql/adding-wait-time-to-the-queue) 
+1. Use a Firestore [Server Timestamp](https://firebase.google.com/docs/firestore/manage-data/add-data#server_timestamp) to mark when a document was initially created, or updated. You can then use this timestamp to sort your documents by their timestamp at creation when you query the database. We'll learn how to do this when we add [a wait time to the Help Queue](/react/react-with-nosql-part-2/adding-wait-time-to-the-queue) 
 2. Create a custom method or use an external library that gives unique IDs that also are prefixed with a number that marks the order in which it was created.  
 
 ### Adding a New Document Without a Firestore Auto-Generated ID

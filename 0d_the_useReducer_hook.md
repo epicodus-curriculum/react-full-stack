@@ -39,7 +39,7 @@ dispatch({type: 'TOGGLE_FORM'})
 
 As we can see, this process using reducers and actions is almost exactly the same as the process we follow when we use Redux. **However, the `useReducer()` hook is not from Redux and it does not create or access a global store like Redux does! It simply shares some of its conventions and the names for its tools.** 
 
-With that brief introduction in mind, let's implement a `useReducer()` hook. For this next practice, we'll revisit the `intro-to-hooks` application that we built [when we first learned how to use the `useState()` and `useEffect()` hooks](/react/react-with-nosql/introduction-to-hooks-with-the-usestate-hook), and we'll refactor the `Counter` component we created to use a `useReducer()` hook.
+With that brief introduction in mind, let's implement a `useReducer()` hook. For this next practice, we'll revisit the `intro-to-hooks` application that we built [when we first learned how to use the `useState()` and `useEffect()` hooks](/react/react-with-nosql-part-2/introduction-to-hooks-with-the-usestate-hook), and we'll refactor the `Counter` component we created to use a `useReducer()` hook.
 
 ### Setting Up our Practice Project
 

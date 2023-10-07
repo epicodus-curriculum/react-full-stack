@@ -126,7 +126,7 @@ If we run our code in the browser, the console will show that the initial state 
 
 However, this isn't very helpful for logging changes to the store's state.
 
-* In order to actually log changes to state, we need to listen for changes with the `subscribe()` method. You may remember that we [briefly discussed the **pubsub** pattern](/react/functional-programming-with-javascript/state) when we learned about functional programming. 
+* In order to actually log changes to state, we need to listen for changes with the `subscribe()` method. You may remember that we [briefly discussed the **pubsub** pattern](/react/functional-programming-with-javascript-part-2/state) when we learned about functional programming. 
 
 A quick refresher: the pubsub pattern is a variant of the observer pattern. Various dependents (in an application) will listen for changes by **subscribing** to the store. Meanwhile, other objects will be **publishing** changes to the store. The publishers and subscribers don't need to know about each other — instead, the store acts as an intermediary.
 

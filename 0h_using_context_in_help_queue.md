@@ -120,6 +120,6 @@ The above diagram highlights the four components that will need access to the sh
 
 So, our shared state will live in `App.js`. Next, we need to pick our tool to manage state and share it within our app. We'll use the `useState()` hook to manage the theme state, and we'll use context to share that state within our app. 
 
-As far as a state management tool, `useReducer()` is a fine alternative, and it depends on what you prefer and what you want to practice. To review the tradeoffs and benefits of the `useReducer()` hook, visit the lesson [The useReducer Hook](/react/react-with-apis/the-usereducer-hook).
+As far as a state management tool, `useReducer()` is a fine alternative, and it depends on what you prefer and what you want to practice. To review the tradeoffs and benefits of the `useReducer()` hook, visit the lesson [The useReducer Hook](/react/react-with-apis-part-2/the-usereducer-hook).
 
 As far as sharing state between components, the best choice here would be to use props, because our application is so small and we're not facing cumbersome prop drilling. We could also rethink how we're composing our components to make the small amount of prop drilling more manageable as well. We'll explore these topics more in an upcoming lesson. For now, we'll continue with using context to transmit shared data in order to get the hang of using it! That's the goal after all.

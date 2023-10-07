@@ -21,7 +21,7 @@ This is the first session of your dedicated class time!
 
 At the end of your work session, you'll submit a GitHub repo for your capstone with at minimum a `README.md` and a separate file called `capstone-proposal.md` that has your capstone proposal in it. If you haven't settled on a name for your capstone yet, know that you can pick a generic repo name for now and change it down the line. 
 
-To complete your capstone proposal, use the template we provide [in this lesson](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal). Your teacher may have set additional expectations for the capstone proposal, so make sure to follow your instructor's direction.
+To complete your capstone proposal, use the template we provide [in this lesson](/react/react-fundamentals-part-2/independent-capstone-project-sign-up-and-proposal). Your teacher may have set additional expectations for the capstone proposal, so make sure to follow your instructor's direction.
 
 It's normal to spend this first work session entirely on research, learning, and planning. You might not start to code until the next capstone work session, which is also entirely normal. Having a solid plan in place with a clear understanding of the tooling you will use in your project is important to be able to stay focused on your MVP and make strides towards completing it. However, you should not spend the entire work session on your capstone proposal. Aim to spend a 1/2 hour to an hour completing it.
 
