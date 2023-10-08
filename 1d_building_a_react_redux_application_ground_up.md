@@ -6,7 +6,7 @@ Before we start, a quick reminder: building React applications that use Redux is
 
 ### 1. Plan Your Component Tree
 
-You might be really excited to start writing and testing reducers but that's not the first thing you'll do when you build an application from scratch. We should always start by planning our component tree and drawing a diagram. We discussed this in React Fundamentals with [Planning a React Application](/react/react-fundamentals-part-2/planning-a-react-application). In that lesson, we provided a link to an article in the official React docs called [Thinking in React](https://reactjs.org/docs/thinking-in-react.html). That article doesn't even mention Redux — and yet we should follow _all_ of the steps from that article _before_ we start incorporating Redux. If you're feeling a bit hazy about that article, we recommend reading it again.
+You might be really excited to start writing and testing reducers but that's not the first thing you'll do when you build an application from scratch. We should always start by planning our component tree and drawing a diagram. We discussed this in React Fundamentals with [Planning a React Application](/react/react-fundamentals/planning-a-react-application). In that lesson, we provided a link to an article in the official React docs called [Thinking in React](https://reactjs.org/docs/thinking-in-react.html). That article doesn't even mention Redux — and yet we should follow _all_ of the steps from that article _before_ we start incorporating Redux. If you're feeling a bit hazy about that article, we recommend reading it again.
 
 In Intermediate JavaScript, we really focused on writing (and testing) business logic first before building a UI. For that reason, the approach we should take with a React/Redux application might still feel a bit counter-intuitive. Instead of writing and testing our business logic first (the reducers), we need to start with the UI.
 
@@ -47,13 +47,13 @@ Don't even think about incorporating Redux into your application until you have 
 
 ### 5. Add Redux to Application
 
-Only now are we ready to add Redux to the application. You can follow along with this Help Queue lesson again to walk through each step: [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux-part-2/adding-redux-to-react-part-2). Also, don't forget to install react and react-redux if they aren't already in your `package.json` file:
+Only now are we ready to add Redux to the application. You can follow along with this Help Queue lesson again to walk through each step: [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux/adding-redux-to-react). Also, don't forget to install react and react-redux if they aren't already in your `package.json` file:
 
 ```javascript
 $ npm install redux@4.2.0 react-redux@8.0.2
 ```
 
-While the lesson linked above walks through refactoring the Help Queue project, all the same steps apply to your new application. If you've following all the steps outlined in this lesson, it's the same process that we've used to build out the Help Queue application. In the [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux-part-2/adding-redux-to-react-part-2) lesson, we wire up Redux to the `TicketControl.js` component. At this point, you likely have a `Control` component or another component that's handling most or all of the state in your application.
+While the lesson linked above walks through refactoring the Help Queue project, all the same steps apply to your new application. If you've following all the steps outlined in this lesson, it's the same process that we've used to build out the Help Queue application. In the [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux/adding-redux-to-react) lesson, we wire up Redux to the `TicketControl.js` component. At this point, you likely have a `Control` component or another component that's handling most or all of the state in your application.
 
 ### 6. Be Ready to Debug... Don't Pull Your Hair Out!
 
