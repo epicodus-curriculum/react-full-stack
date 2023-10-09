@@ -47,13 +47,13 @@ Don't even think about incorporating Redux into your application until you have 
 
 ### 5. Add Redux to Application
 
-Only now are we ready to add Redux to the application. You can follow along with this Help Queue lesson again to walk through each step: [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux/adding-redux-to-react). Also, don't forget to install react and react-redux if they aren't already in your `package.json` file:
+Only now are we ready to add Redux to the application. You can follow along with this Help Queue lesson again to walk through each step: [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux/adding-redux-to-react-part-2). Also, don't forget to install react and react-redux if they aren't already in your `package.json` file:
 
 ```javascript
 $ npm install redux@4.2.0 react-redux@8.0.2
 ```
 
-While the lesson linked above walks through refactoring the Help Queue project, all the same steps apply to your new application. If you've following all the steps outlined in this lesson, it's the same process that we've used to build out the Help Queue application. In the [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux/adding-redux-to-react) lesson, we wire up Redux to the `TicketControl.js` component. At this point, you likely have a `Control` component or another component that's handling most or all of the state in your application.
+While the lesson linked above walks through refactoring the Help Queue project, all the same steps apply to your new application. If you've following all the steps outlined in this lesson, it's the same process that we've used to build out the Help Queue application. In the [React with Redux: Adding Redux to React: Part 2](/react/react-with-redux/adding-redux-to-react-part-2) lesson, we wire up Redux to the `TicketControl.js` component. At this point, you likely have a `Control` component or another component that's handling most or all of the state in your application.
 
 ### 6. Be Ready to Debug... Don't Pull Your Hair Out!
 
