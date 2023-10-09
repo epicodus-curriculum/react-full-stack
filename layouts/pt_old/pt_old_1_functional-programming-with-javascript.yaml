@@ -1,7 +1,7 @@
 section: Functional Programming with JavaScript
 order: 2
 repo: react-full-stack
-directory: 2_functional-programming-with-javascript-1e75b6d0-055f-43e6-9f66-7a959ffc3f78
+directory: 2_functional-programming-with-javascript
 lessons:
   - title: Functional Programming with JavaScript Objectives
     filename: 0a_functional_programming_objectives_old.md

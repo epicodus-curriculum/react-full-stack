@@ -2,7 +2,7 @@ title: React
 show_weeks_and_days: true
 homepage: index-pt-old.md
 sections:
-  - pt_old_1_functional-programming-with-javascript-1e75b6d0-055f-43e6-9f66-7a959ffc3f78.yaml
+  - pt_old_1_functional-programming-with-javascript.yaml
   - pt_old_2_functional-programming-with-javascript-part-2.yaml
   - pt_old_3_react-fundamentals.yaml
   - pt_old_4_react-fundamentals-part-2.yaml
