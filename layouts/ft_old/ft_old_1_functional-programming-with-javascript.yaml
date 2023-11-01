@@ -154,16 +154,17 @@ lessons:
     filename: 3b_classwork_whiteboard_project_euler.md
     day: wednesday
     type: exercise
+    # Short week changes, below items are moved up one day sooner. Move then back after.
   - title: 'Technical Interview Preparation: Functional Programming'
     filename: 4a_classwork_technical_interview_prep_functional_programming.md
-    day: thursday
+    day: wednesday
     type: exercise
   - title: Epicodus Job Board
     filename: epicodus_job_board_classwork.md
-    day: thursday
+    day: wednesday
     type: exercise
     repo: career-services-full-stack
   - title: Functional Programming with JavaScript Independent Project
     filename: 5a_classwork_functional_programming_independent_project_old.md
-    day: friday
+    day: thursday
     type: exercise
