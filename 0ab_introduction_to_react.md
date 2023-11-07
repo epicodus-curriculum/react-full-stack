@@ -41,7 +41,6 @@ Here are a few companies, products, websites, and apps that use React's library:
 * [Patreon](https://www.patreon.com)
 * [Paypal](https://www.paypal.com/us/home)
 * [Pinterest](https://www.pinterest.com/)
-* [QuizUp](https://www.quizup.com/en)
 * [Reddit](https://www.reddit.com/)
 * [SeatGeek](https://seatgeek.com/)
 * [Tesla](https://www.tesla.com/careers/)
