@@ -70,42 +70,46 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: tuesday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #14 Discussion'
     filename: 2_week_16_discussion_classwork.md
-    day: tuesday
+    day: monday
     type: exercise
     repo: career-services-full-stack
   - title: Help Queue, Social Media, Airbnb Clone
     filename: 1a_classwork_help_queue_social_media_airbnb_clone.md
-    day: tuesday
+    day: monday
     type: exercise
   - title: Introduction to State
     filename: 1b_introduction_to_state.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: 'Planning Our Application: Part 2'
     filename: 1c_planning_our_application_part_2.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Adding Local State
     filename: 1d_adding_local_state.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Conditional Rendering
     filename: 1e_conditional_rendering.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Updating State with Events
     filename: 1f_updating_state_with_events.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Binding Functions in React
     filename: 1g_binding_functions_in_react.md
-    day: tuesday
+    day: monday
     type: lesson
+  - title: "Farmer's Market"
+    filename: 2a_classwork_css_practice_farmers_markets.md
+    day: tuesday
+    type: exercise
   - title: UUID Library
     filename: 2ab_uuid_library.md
     day: tuesday
