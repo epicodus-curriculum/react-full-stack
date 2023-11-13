@@ -13,7 +13,7 @@ React Router provides a number of tools that will make it easy for us to add cli
 * A `<Route>` component that defines the component the application should route to as well as the path that the route corresponds to.
 * Finally, a `<Link>` component will provide actual links to client-side routes in our application.
 
-We will just cover this part of React Router's functionality in this lesson, but we recommend checking out the excellent [React Router documentation](https://reactrouter.com/docs/en/v6) as well.
+We will just cover this part of React Router's functionality in this lesson, but we recommend checking out the excellent [React Router documentation](https://reactrouter.com/en/main) as well.
 
 We'll start by adding a `SignIn`  component with placeholder text:
 
@@ -145,4 +145,4 @@ At this point, we can run our application and then click on the links in the hea
 
 We're now ready to add authentication to our application!
 
-For more information on using React Router, check out the [React Router documentation](https://reactrouter.com/docs/en/v6).
+For more information on using React Router, check out the [React Router documentation](https://reactrouter.com/en/main).
