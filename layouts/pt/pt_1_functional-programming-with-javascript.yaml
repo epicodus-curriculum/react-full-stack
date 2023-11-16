@@ -55,31 +55,6 @@ lessons:
     filename: 0n_the_minimum_viable_product.md
     day: weekend
     type: lesson
-  - title: Whiteboard Independent Project Overview
-    filename: 1_whiteboard_session_overview.md
-    day: weekend
-    type: lesson
-    repo: career-services-full-stack
-  - title: Whiteboard Evaluation Rubric
-    filename: 2_evaluation_rubric_overview.md
-    day: weekend
-    type: lesson
-    repo: career-services-full-stack
-  - title: A Guide to Whiteboarding
-    filename: 3_how_to_whiteboard.md
-    day: weekend
-    type: lesson
-    repo: career-services-full-stack
-  - title: Being a Good Interviewer
-    filename: 4_being_an_interviewer.md
-    day: weekend
-    type: lesson
-    repo: career-services-full-stack
-  - title: Giving Constructive Feedback
-    filename: 5_giving_constructive_feedback.md
-    day: weekend
-    type: lesson
-    repo: career-services-full-stack
   - title: 'Journal #7'
     filename: 1_week_seven_journal_prompt.md
     day: weekend
