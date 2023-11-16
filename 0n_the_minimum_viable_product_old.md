@@ -1,10 +1,10 @@
-During the final course section of your time at Epicodus, you will craft your Capstone project, and eventually present it to your peers to showcase what you've learned. This will also act as your final independent project of Epicodus.
+During the final class session, you will present your project and then turn in your capstone as your final independent project.
 
 However, "final independent project" doesn't mean that we expect your capstone to be completely finished. The goal is to have the minimum viable product (MVP) in place.
 
-In this lesson, we'll review MVPs and how they apply to our capstone projects. 
+In this lesson, we'll review MVPs and how they apply to our capstone projects.
 
-For now, this lesson is to introduce you to the concept of the MVP, but you won't be required to submit an MVP or formal capstone proposal for your capstone until much later in the C# course. 
+Remember, for the React with Redux code review, you will be required to submit a capstone project proposal to your instructor. This proposal will outline your minimum viable product (MVP) along with the developmental road map you'll follow to create it. If you want to look at the capstone proposal template before continuing with this lesson, see the [independent capstone project sign-up and proposal](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal) lesson. You are welcome to start early on your capstone project proposal.
 
 ## Minimum Viable Product (MVP)
 ---
@@ -36,7 +36,7 @@ By following this MVP process to create our product, we reap two distinct benefi
 ## The MVP Process in Your Capstone Project
 ---
 
-As described in the [independent project expectations lesson](/react/functional-programming-with-javascript/functional-programming-with-javascript-objectives) for this week, you'll submit an idea board and an outline of your idea to your instructor. Instructors will give you feedback that will help you eventually work toward developing your MVP before integrating additional features. This will happen later in the next course, but keep this in mind for larger projects, Team Week projects, and other projects going forward to help you qualify your project. Here's what the workflow will look like:
+As described in the [independent capstone project proposal](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal) lesson, you'll submit a project proposal to your instructor, then work toward developing your MVP before integrating additional features. Here's what the workflow will look like:
 
 1.  In your proposal, you'll identify the primary goal or purpose of the application. What problem is this project meant to solve? What service is it meant to offer the user?
 
@@ -52,4 +52,4 @@ As described in the [independent project expectations lesson](/react/functional-
 
 7.  Continue adding features to improve your project's functionality and user experience. Take user feedback into account when deciding which extra features to implement before presenting your project to potential employers.
 
-Don't feel ready to come up with an idea? That's okay! We will introduce ways to help brainstorm ideas before this section's independent project. And remember, you're not beholden to any ideas that you submit - you can *always* change your mind.
+Are you ready? Start brainstorming capstone project ideas now. Then, continue on to the next step by reviewing the [independent capstone project sign-up and proposal](/react/react-fundamentals/independent-capstone-project-sign-up-and-proposal) lesson and begin constructing your own MVP.

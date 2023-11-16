@@ -19,10 +19,11 @@ In this course section, we'll cover the following:
 ## Independent Project Objectives
 ---
 
-For this course section, the independent project will be different from previous weeks. You will spend your normally scheduled independent project time studying for a whiteboard technical interview. Then, you will take part in a whiteboard technical interview with your peers. You will submit peer evaluations for the technical interviews you participate in and also submit your whiteboard solution in lieu of the usual independent project. More details on technical whiteboarding will be provided in this weekend's homework.
+For this course section, the independent project will be different from previous weeks. You will spend your normally scheduled independent project time brainstorming and preparing an idea for your Capstone project. The Capstone project is a larger project that you'll spend a majority of the final course crafting, with the intention that you will be able to leverage this project to showcase your skills to employers, and explore ideas and concepts that you're interested in that haven't been covered in classes. 
 
-This course section's group whiteboard interview will be reviewed for the following objectives:
+Keep in mind that you're not beholden to any ideas you come up with at this point. The main goal we have with this section is to get you thinking about project ideas early on, and teachers will be able to provide you with feedback and advice to help you approach your most successful ideas later on.
 
-- Whiteboard solution has been submitted.
-- Whiteboard interview meets all requirements (based on peer feedback).
-- Your evaluations for peers are complete and include constructive feedback.
+For this first Capstone exploration, the objectives are fairly simple:
+
+* An idea board(s) to show us your thought process and what other project ideas you considered
+* Includes a one page outline of capstone project.
