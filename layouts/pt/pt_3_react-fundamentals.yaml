@@ -114,6 +114,11 @@ lessons:
     filename: 2a_classwork_css_practice_farmers_markets.md
     day: wednesday
     type: exercise
+  - title: 'Leveraging LinkedIn'
+    filename: 3_leveraging_linkedin.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
   - title: Applying for Jobs
     filename: classwork_applying_for_jobs.md
     day: thursday

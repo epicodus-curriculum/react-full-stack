@@ -131,8 +131,13 @@ lessons:
     filename: 1a_classwork_firestore_survey_quiz_of_choice_3.md
     day: wednesday
     type: exercise
-  - title: Applying for Jobs
-    filename: classwork_applying_for_jobs.md
+  - title: 'Resume Overview'
+    filename: 3_resume_overview.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Writing Your Resume'
+    filename: 3_writing_your_resume.md
     day: thursday
     type: exercise
     repo: career-services-full-stack

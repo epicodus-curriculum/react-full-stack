@@ -139,15 +139,32 @@ lessons:
     filename: 4a_classwork_technical_interview_prep_functional_programming.md
     day: thursday
     type: exercise
+  - title: 'Capstone Prep: Introduction to Idea Boards'
+    filename: 1_introduction_to_the_idea_board.md
+    day: thursday
+    type: lesson
+  - title: 'Capstone Prep: Using Employable Skills'
+    filename: 1_algining_your_project_with_employable_skills.md
+    day: thursday
+    type: lesson
+  - title: 'Capstone Prep: What to Expect'
+    filename: 1_baseline_capstone_expectations.md
+    day: thursday
+    type: lesson
+  - title: 'LinkedIn Profiles'
+    filename: 3_linkedin_classwork_new.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Indeed Resume'
+    filename: 3_indeed_resume_classwork_new.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
   - title: Whiteboard Practice
     filename: 4b_classwork_whiteboard_practice_prime_checker_and_multiples.md
     day: thursday
     type: exercise
-  - title: Epicodus Job Board
-    filename: epicodus_job_board_classwork.md
-    day: thursday
-    type: exercise
-    repo: career-services-full-stack
   - title: Functional Programming with JavaScript Independent Project
     filename: 5a_classwork_functional_programming_independent_project.md
     day: friday

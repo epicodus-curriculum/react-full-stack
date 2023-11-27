@@ -156,8 +156,13 @@ lessons:
     filename: 4a_technical_interview_practice_nosql_classwork.md
     day: thursday
     type: exercise
-  - title: Applying for Jobs
-    filename: classwork_applying_for_jobs.md
+  - title: 'Resume Overview'
+    filename: 3_resume_overview.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Writing Your Resume'
+    filename: 3_writing_your_resume.md
     day: thursday
     type: exercise
     repo: career-services-full-stack
