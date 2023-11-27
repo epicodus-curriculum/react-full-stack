@@ -115,7 +115,7 @@ Staying on top of industry trends, you might opt for a project that utilizes in-
 
 For those interested in real-world applications, consider a project that meets a client’s need – perhaps a website for a friend's passion project or a local business. This adds a dynamic layer to your capstone, involving communication, feedback, and the satisfaction of delivering a product tailored to someone else's needs. 
 
-Additionally, consider make it a goal to punlish or release your application for real users to consume.
+Additionally, consider make it a goal to publish or release your application for real users to consume.
 * Local barbershops or smaller businesses might be interested in a website overhaul
 * Perhaps a friend or colleague is interested in making an application for their hobby, such as a Dungeon Master applications for D&D sessions
 * If making a storefront, explore secure payment methods through services like Square
