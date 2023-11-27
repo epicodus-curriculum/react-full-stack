@@ -4,13 +4,17 @@ In the dynamic field of web development, staying attuned to the skills and techn
 
 ## Finding Applicable Skills
 
-One way to brainstorm your project ideas is to start by perusing job listings on reputable platforms such as LinkedIn, Indeed,specialized tech job boards, or company hiring pages.  
+While we’ve gone over how to approach project ideas in a previous lesson using Idea Boards, it’s easy to go in a direction with your ideas that won’t help you practice the skills that will land you a position in the career that you’re wanting to pursue. 
+
+As an example, while many students might have a passion for video games, creating a video game might not be the best project idea if you’re hoping to become a web developer rather than something in the game industry.
+
+One way to brainstorm your project ideas while keeping them relevant to your pursuits is to start by browsing job listings on reputable platforms such as LinkedIn, Indeed,specialized tech job boards, or company hiring pages.  
 
 Keep an eye out for recurring themes in the skills and qualifications sections of these postings. These listings reflect the technologies and proficiencies valued by employers. Take note of programming languages, frameworks, and tools that frequently appear, as these might be a good indicator of current trends.
 
 Depending on the path that you’re hoping to take, you might want to consider different types of jobs. If you’re into design, maybe look at what Front-end positions are looking for. If you have a knack for the business logic that makes an application work, take a look at jobs pertaining to back-end development or databases. You’re also welcome to take a generalist approach to your application and flex your full-stack muscles.
 
-Take a look at this example full-stack job posting: 
+Take a look at this example full-stack job posting:
 
 > #### Job Title: Junior Web Developer - Full Stack
 > #### Location: Anytown, USA
@@ -44,20 +48,20 @@ Take a look at this example full-stack job posting:
 > * Professional development opportunities.
 > * Fun and collaborative work environment.
 > * Opportunities to attend tech conferences and workshops.
-> 
+>
 > #### How to Apply:
 > Interested candidates should submit their resume, a cover letter, and a link to their portfolio or GitHub repository showcasing relevant projects to careers@techstartup.com. Please include "Junior Web Developer Application" in the subject line.
 > We're excited to meet passionate and talented individuals who are eager to contribute to our innovative projects. Apply now and be part of our growing team!
 
 
 
-In this example, you can see that the job post includes information about technologies like SQL, NoSQL, React.js, Next.js, MongoDB, and so on. Let's see how we might pick apart this listing to further curate an application idea. 
+In this example, you can see that the job post includes information about technologies like SQL, NoSQL, React.js, Next.js, MongoDB, and so on. Let's see how we might pick apart this listing to further curate an application idea.
 
 ## Decoding Skills and Technology
 
-Looking at the above example job posting, we can extrapolate certain things that we might want to consider for our application. 
+Looking at the above example job posting, we can extrapolate certain things that we might want to consider for our application.
 
-This might feel intimidating at first, but you might see there are plenty of similarities between what you’ve learned so far and what is listed in here. Even if there aren't any obvious similarities, a quick search of a tool you're unfamiliar with might show you that it's not too dissimilar from something you already know! 
+This might feel intimidating at first, but you might see there are plenty of similarities between what you’ve learned so far and what is listed in here. Even if there aren't any obvious similarities, a quick search of a tool you're unfamiliar with might show you that it's not too dissimilar from something you already know!
 
 Let's make an example list of quantifiable tools and skills we can consider when creating an application idea:
 
@@ -71,7 +75,7 @@ Let's make an example list of quantifiable tools and skills we can consider when
 >
 > #### Skills
 > * Test Driven Development
-> * Collaboration 
+> * Collaboration
 > * Git control
 
 In this example, we've separated out the technologies and skills that might be applicable for our brainstorming process.
@@ -80,16 +84,16 @@ An example student might want to focus on creating an idea that would necessitat
 
 With this in mind, an example student might be swayed away from making a visually focused interactive website idea - like a portfolio or an audio visualizer -  towards an application that takes data and delivers it to users - like a social media website or an exercise tracker.
 
-You haven’t yet gone over databases, but this will be a concept you’re familiar with by the time you’re building out your capstone project.
+**You have yet to go over databases, but this will be a concept you’ll familiarize yourself with by the time you’re building out your capstone project.**
 
-As a quick rule of thumb, if the *data* or *information* within an application is changing, or is relying on some sort of storage of information, it will likely benefit or require a database. 
+As a quick rule of thumb, if *data* or *information* about any subject that needs to persist between visits, or is relying on storing information for a user to later retrieve or change, it will likely benefit or require a database.
 
 ## Putting Things Together
 
-Once armed with a comprehensive list of skills from various job postings that pique your interest, the next step is to cross-reference these skills with your own interests and strengths.
+Once armed with a comprehensive list of skills from various job postings that pique your interest, the next step is to cross-reference these skills with your own interests and strengths. Use these in conjunction with your Idea Board to finalize the best ideas for your success.
 
-Identify areas where your passion intersects with the skills sought by employers. For instance, if there is a demand for proficiency in a specific platform - such as mobile - and you have a keen interest in creating mobile applications, consider researching the necessary tools and weaving them into the fabric of your capstone project. This not only ensures alignment with industry needs but also capitalizes on your intrinsic motivation and expertise.
+Identify areas where your passion intersects with the skills sought by employers. For instance, if there is a demand for proficiency in a specific platform - such as mobile devices - and you have a keen interest in creating mobile applications, consider researching the necessary tools and weaving them into the fabric of your capstone project. This not only ensures alignment with industry needs but also capitalizes on your intrinsic motivation and expertise.
 
 In essence, leveraging job postings for web developers as a source of inspiration for your capstone project in a way that is dynamic and informed to ensure that your final project not only reflects your passions but also positions you as a candidate equipped with the relevant skills.
 
-
+If you’re having trouble finding what sorts of jobs you’d like to be applying for, or you’re stuck on the creative process trying to create an idea, feel free to talk with your peers or your instructor to get some feedback or alternative ideas to get you started! 
