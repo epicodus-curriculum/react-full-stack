@@ -19,11 +19,10 @@ code_reviews:
   details:
     - title: Functional Programming with JavaScript
       visible_class_week: 1
-      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/1_cr_functional_programming_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/1_cr_functional_programming_idea_board_project.md
       objectives:
-      - Whiteboard solution has been submitted.
-      - Whiteboard interview meets all requirements (based on peer feedback).
-      - Your evaluations for peers are complete and include constructive feedback.
+      - An idea board(s) to show us your thought process and what other project ideas you considered
+      - Includes a one page (at most!) outline of your capstone project.
     - title: Addressing Implicit Bias
       always_visible: true
       journal: true
@@ -41,24 +40,33 @@ code_reviews:
       - "The prompt's required functionality and baseline project requirements are in place by the deadline."
     - title: React with Redux
       visible_class_week: 3
-      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/3_epicenter_cr_redux_independent_project_capstone_work_.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/3_cr_react_redux_independent_project.md
       objectives:
-      - "Project commit history demonstrates a full session of work: 8 hours for full-time students and 4 hours for part-time students."
-      - Project includes capstone proposal.
-      - README includes an overview of the project.
+      - "Redux successfully manages all shared state."
+      - "All Redux reducers are pure functions."
+      - "Jest is used to test all reducers."
+      - "Actions are successfully dispatched to specify changes to state."
+      - "Reducers receive and handle actions to correctly mutate the store's state."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt’s required functionality and baseline project requirements are in place by the deadline."
     - title: Understanding Stereotype Threat
       always_visible: true
       journal: true
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/17_understanding_stereotype_threat_reflection.md
     - title: React with NoSQL
       visible_class_week: 4
-      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/4_teacher_notes_react_with_nosql_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/4_react_nosql_whiteboarding_independent_project.md
       objectives:
-      - "Project commit history demonstrates a full session of work: 8 hours for full-time students and 4 hours for part-time students."
-      - Project includes capstone proposal.
-      - README includes an overview of the project.
+      - Whiteboard solution has been submitted.
+      - Whiteboard interview meets all requirements (based on peer feedback).
+      - Your evaluations for peers are complete and include constructive feedback.
     - title: Independent Capstone Project
-      visible_class_week: 6
-      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/5_capstone_independent_project_submission.md
+      visible_class_week: 5
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/5_cr_react_with_apis_update_portfolio.md
       objectives:
-      - Did you participate in capstone project process, including submitting proposal, working effectively throughout week, and presenting at the trade show?
+      - Still WIP
+    - title: Team Week
+      visible_class_week: 6
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/shared/team_week_cr.md
+      objectives:
+      - Did you participate in planning, creating, and presenting a project, including working effectively with teammates?
