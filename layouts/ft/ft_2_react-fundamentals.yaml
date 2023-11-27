@@ -158,6 +158,11 @@ lessons:
     filename: 3g_updating_a_ticket.md
     day: wednesday
     type: lesson
+  - title: 'Leveraging LinkedIn'
+    filename: 3_leveraging_linkedin.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
   - title: 'Technical Interview Preparation: React Fundamentals'
     filename: 4b_classwork_technical_interview_prep_react_fundamentals.md
     day: thursday

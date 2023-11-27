@@ -130,8 +130,13 @@ lessons:
     filename: 0ia_creating_deep_clones.md
     day: wednesday
     type: lesson
-  - title: Epicodus Job Board
-    filename: epicodus_job_board_classwork.md
+  - title: 'LinkedIn Profiles'
+    filename: 3_linkedin_classwork_new.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Indeed Resume'
+    filename: 3_indeed_resume_classwork_new.md
     day: thursday
     type: exercise
     repo: career-services-full-stack

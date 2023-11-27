@@ -23,6 +23,18 @@ lessons:
     filename: 3a_classwork_rpg_haiku_checker.md
     day: thursday
     type: exercise
+  - title: 'Capstone Prep: Introduction to Idea Boards'
+    filename: 1_introduction_to_the_idea_board.md
+    day: thursday
+    type: lesson
+  - title: 'Capstone Prep: Using Employable Skills'
+    filename: 1_algining_your_project_with_employable_skills.md
+    day: thursday
+    type: lesson
+  - title: 'Capstone Prep: What to Expect'
+    filename: 1_baseline_capstone_expectations.md
+    day: thursday
+    type: lesson
   - title: Whiteboard Practice
     filename: 4b_classwork_whiteboard_practice_prime_checker_and_multiples.md
     day: thursday
