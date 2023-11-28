@@ -59,10 +59,6 @@ lessons:
     filename: 0ma_adding_images_to_cra.md
     day: weekend
     type: lesson
-  - title: Independent Capstone Project Sign-Up and Proposal
-    filename: 0n_independent_capstone_project_proposal.md
-    day: weekend
-    type: lesson
   - title: 'Journal #14'
     filename: 1_week_16_prompt.md
     day: weekend
@@ -70,41 +66,41 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: tuesday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #14 Discussion'
     filename: 2_week_16_discussion_classwork.md
-    day: tuesday
+    day: monday
     type: exercise
     repo: career-services-full-stack
   - title: Help Queue, Social Media, Airbnb Clone
     filename: 1a_classwork_help_queue_social_media_airbnb_clone.md
-    day: tuesday
+    day: monday
     type: exercise
   - title: Introduction to State
     filename: 1b_introduction_to_state.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: 'Planning Our Application: Part 2'
     filename: 1c_planning_our_application_part_2.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Adding Local State
     filename: 1d_adding_local_state.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Conditional Rendering
     filename: 1e_conditional_rendering.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Updating State with Events
     filename: 1f_updating_state_with_events.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: Binding Functions in React
     filename: 1g_binding_functions_in_react.md
-    day: tuesday
+    day: monday
     type: lesson
   - title: UUID Library
     filename: 2ab_uuid_library.md
@@ -163,6 +159,10 @@ lessons:
     day: wednesday
     type: lesson
     repo: career-services-full-stack
+  - title: Help Queue, Merch Site, Event Logger
+    filename: 3a_classwork_help_queue_merch_site_event_logger_two_day.md
+    day: thursday
+    type: exercise
   - title: 'Technical Interview Preparation: React Fundamentals'
     filename: 4b_classwork_technical_interview_prep_react_fundamentals.md
     day: thursday
@@ -171,26 +171,26 @@ lessons:
     filename: 4a_whiteboarding_practice.md
     day: thursday
     type: exercise
-  - title: Applying for Jobs
-    filename: classwork_applying_for_jobs.md
-    day: thursday
-    type: exercise
-    repo: career-services-full-stack
-  - title: Following Up During the Job Application Process
-    filename: 6_Follow-Up_During_the_Job_Application_Process.md
-    day: thursday
-    type: lesson
-    repo: career-services-full-stack
-  - title: Expand Your Job Search Network Through Cold Emailing
-    filename: 7_Expand_your_Job_Search_Network_through_Cold_Emailing.md
-    day: thursday
-    type: lesson
-    repo: career-services-full-stack
-  - title: Tools for Email Management
-    filename: 8_Tools_for_Email_Management.md
-    day: thursday
-    type: lesson
-    repo: career-services-full-stack
+  # - title: Applying for Jobs
+  #   filename: classwork_applying_for_jobs.md
+  #   day: thursday
+  #   type: exercise
+  #   repo: career-services-full-stack
+  # - title: Following Up During the Job Application Process
+  #   filename: 6_Follow-Up_During_the_Job_Application_Process.md
+  #   day: thursday
+  #   type: lesson
+  #   repo: career-services-full-stack
+  # - title: Expand Your Job Search Network Through Cold Emailing
+  #   filename: 7_Expand_your_Job_Search_Network_through_Cold_Emailing.md
+  #   day: thursday
+  #   type: lesson
+  #   repo: career-services-full-stack
+  # - title: Tools for Email Management
+  #   filename: 8_Tools_for_Email_Management.md
+  #   day: thursday
+  #   type: lesson
+  #   repo: career-services-full-stack
   - title: React Fundamentals Independent Project
     filename: 5a_classwork_react_fundamentals_independent_project.md
     day: friday
