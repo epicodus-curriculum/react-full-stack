@@ -60,7 +60,7 @@ code_reviews:
       - Whiteboard solution has been submitted.
       - Whiteboard interview meets all requirements (based on peer feedback).
       - Your evaluations for peers are complete and include constructive feedback.
-    - title: Independent Capstone Project
+    - title: React with APIs
       visible_class_week: 5
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/5_cr_react_with_apis_update_portfolio.md
       objectives:
