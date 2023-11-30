@@ -36,7 +36,7 @@ In fact, it's common practice to build out entirely static sites with placeholde
 ## Class Components
 ---
 
-Class components, on the other hand, are used whenever we need to add state to a component. We won't add class components to our applicatons until later in this course section, but we'll provide a brief overview of how they look now.
+Class components, on the other hand, are used whenever we need to add state to a component. We won't add class components to our applications until later in this course section, but we'll provide a brief overview of how they look now.
 
 ```jsx
 import React, { Component } from 'react';
