@@ -64,7 +64,7 @@ Applications that help track and manage data of some kind, such as:
 * Food diaries
 * Workout tracking
 * Mood trackers
-* Or applications that do something with outside data pulled from an API. Check out this list of APIs for ideas.
+* Or applications that do something with outside data pulled from an API. Check out this [list of APIs](https://github.com/public-apis/public-apis) for ideas.
 * Productivity Tools
 * Websites aimed to help make you more productive, like:
 * Checklists
