@@ -52,7 +52,7 @@ lessons:
     day: weekend
     type: lesson
     repo: shared-full-stack
-  - title: 'Journal #17 Prompt'
+  - title: 'Journal #11 Prompt'
     filename: 1_week_19_prompt.md
     day: weekend
     type: lesson
@@ -62,7 +62,7 @@ lessons:
     day: monday
     type: lesson
     repo: pre-work-full-stack
-  - title: 'Journal #17 Discussion'
+  - title: 'Journal #11 Discussion'
     filename: 2_week_19_discussion_classwork.md
     day: monday
     type: exercise
