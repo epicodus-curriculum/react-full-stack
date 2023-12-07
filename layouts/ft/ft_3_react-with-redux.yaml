@@ -55,7 +55,7 @@ lessons:
     filename: 0m_adding_redux_to_react_part_3.md
     day: weekend
     type: lesson
-  - title: 'Journal #15'
+  - title: 'Journal #9'
     filename: 1_week_17_prompt.md
     day: weekend
     type: lesson
@@ -65,7 +65,7 @@ lessons:
     day: monday
     type: lesson
     repo: pre-work-full-stack
-  - title: 'Journal #15 Discussion'
+  - title: 'Journal #9 Discussion'
     filename: 2_week_17_discussion_classwork.md
     day: monday
     type: exercise
