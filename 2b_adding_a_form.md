@@ -47,7 +47,7 @@ Our `onSubmit` handler will trigger the function `{handleNewTicketFormSubmission
 
 Now that we have a form in place, we need a `handleNewTicketFormSubmission` function. This function will be triggered when the form is submitted.
 
-Let's add that function just after the lines of code where we instantiated our form field variables:
+Let's add that function just above the lines of code where we instantiated our form:
 
 <div class="filename">NewTicketForm.js</div>
 
