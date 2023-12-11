@@ -64,7 +64,7 @@ Applications that help track and manage data of some kind, such as:
 * Food diaries
 * Workout tracking
 * Mood trackers
-* Or applications that do something with outside data pulled from an API. Check out this list of APIs for ideas.
+* Or applications that do something with outside data pulled from an API. Check out this [list of APIs](https://github.com/public-apis/public-apis) for ideas.
 * Productivity Tools
 * Websites aimed to help make you more productive, like:
 * Checklists
@@ -119,18 +119,18 @@ You might also want to reference the Career Services lesson on [Identifying Impo
 
 For those interested in real-world applications, consider a project that meets a client’s need – perhaps a website for a friend's passion project or a local business. This adds a dynamic layer to your capstone, involving communication, feedback, and the satisfaction of delivering a product tailored to someone else's needs. 
 
-Additionally, consider make it a goal to punlish or release your application for real users to consume.
+Additionally, consider make it a goal to publish or release your application for real users to consume.
 * Local barbershops or smaller businesses might be interested in a website overhaul
-* Perhaps a friend or colleague is interested in making an application for their hobby, such as a Dungeon Master applications for D&D sessions
+* Perhaps a friend or colleague is interested in making an application for their hobby, such as a Dungeon Master application for D&D sessions
 * If making a storefront, explore secure payment methods through services like Square
 * Intend to release whatever application you're making, and certify that it's portfolio ready and polished
 
 #### Practice your Passions
 
 It’s really easy to get bogged down in a mundane task, or burn yourself out trying to create an application that you’re not interested in. Really focus on what makes you *you*. Bring those passions with you to the computer and lean into them, and don’t be afraid to fail or change course later. 
-* If you enjoy making your applications look as good as they function, explore animations or unique interactions with the user
-* If you have a hobby or interest that could be made easier with an application, focus on fixing your own real-world problems. 
-* Bring your personality to what you’ve created and showcase your strengths.
+* If you enjoy making your applications look as good as they function, explore animations or unique interactions for the user experience
+* If you have a hobby or interest that could be made easier with an application, focus on fixing your own real-world problems
+* Bring your personality to what you’ve created and showcase your strengths
 
 #### Do Research
 

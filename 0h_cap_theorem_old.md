@@ -1,6 +1,6 @@
 In this lesson, we will discuss the CAP theorem, a key concept developed by the computer scientist Eric Brewer that governs why and how NoSQL databases are scalable and good for big data. We'll also touch on Eric Brewer's acronym BASE, which describes how NoSQL databases achieve the requirements of the CAP theorem when distributed across multiple locations.
 
-These are in contrast to the ACID theorem, which generally explains how SQL databases behave. We discussed the [ACID theorem](https://www.learnhowtoprogram.com/ruby-and-rails/ruby-database-basics/acid-databases) in Ruby/Rails and C#/.NET, but if you need a refresher or didn't go through those courses, we recommend taking a look.
+These are in contrast to the ACID theorem, which generally explains how SQL databases behave. We discussed the [ACID theorem](https://old.learnhowtoprogram.com/ruby-and-rails/ruby-database-basics/acid-databases) in Ruby/Rails and C#/.NET, but if you need a refresher or didn't go through those courses, we recommend taking a look.
 
 **Note:** You are not required to memorize this information or perfectly understand it. The goal is to give you a better idea of some of the tradeoffs in a distributed NoSQL system. 
 

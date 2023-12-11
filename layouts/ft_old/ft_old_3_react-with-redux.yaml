@@ -95,19 +95,27 @@ lessons:
     day: monday
     type: lesson
     repo: DEI-full-stack
+  - title: Forum, Word Puzzle, Tic Tac Toe (Three-Day Project) - Part 1
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: tuesday
+    type: exercise
   - title: Action Creators
     filename: 2b_action_creators.md
-    day: wednesday
+    day: tuesday
     type: lesson
   - title: Action Constants
     filename: 2c_action_constants.md
-    day: wednesday
+    day: tuesday
     type: lesson
   - title: Hosting a React Project with GH-Pages
     filename: webpack-hosting.md
-    day: wednesday
+    day: tuesday
     type: lesson
     repo: shared-full-stack
+  - title: Forum, Word Puzzle, Tic Tac Toe (Three-Day Project) - Part 2
+    filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
+    day: wednesday
+    type: exercise
   - title: Introduction to date-fns
     filename: 3b_introduction_to_datefns.md
     day: wednesday
@@ -123,8 +131,8 @@ lessons:
   - title: Adding Wait Time to the Queue Part 2
     filename: 3e_adding_wait_time_to_the_queue_part_2.md
     day: wednesday
-    type: lesson
-  - title: Forum, Word Puzzle, Tic Tac Toe (One day project due to short week)
+    type: lesson 
+  - title: Forum, Word Puzzle, Tic Tac Toe (Three-Day Project) - Part 3
     filename: 2a_classwork_redux_forum_hangman_tic_tac_toe_three_day_project.md
     day: thursday
     type: exercise

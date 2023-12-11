@@ -16,7 +16,7 @@ For that reason, we can make our lives easier by updating our component diagram 
 
 `TicketControl` will be able to pass props and state directly to `TicketDetail`. `TicketControl` also already has conditional rendering so we will just need to add one more conditional to determine whether `TicketDetail` should render instead of `TicketList` or `NewTicketForm`.
 
-We will also need to add some new local state to `TicketControl` as well. The default state of the `TicketControl` component will be updated to look like this:
+We will also need to add some new local state to `TicketControl`. Don't worry about making this change right now, but in the next few lessons the default state of the `TicketControl` component will be updated to look like this:
 
 <div class="filename">TicketControl.js</div>
 

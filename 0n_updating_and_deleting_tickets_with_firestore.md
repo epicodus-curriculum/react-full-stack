@@ -52,7 +52,7 @@ While this code is new, it's rather similar to the process we followed when addi
   * The `doc()` function takes 3 arguments: the database instance, the collection name, and the unique document identifier.
   * The `doc()` function returns a `DocumentReference` object, which as its name suggests, is an object that acts as a reference to a document within our Firestore database. 
 * Next, we call the `updateDoc()` function. The first argument we pass into this function is the document reference for the ticket we want to update, and the second argument is the new data that the ticket should be updated with.
-* Finally, take note that the `updateDoc()` function is asynchronous, so we need to make our `handleEditingTicketInList()` function `async` and and apply the `await` keyword before the `updateDoc()` function call.
+* Finally, take note that the `updateDoc()` function is asynchronous, so we need to make our `handleEditingTicketInList()` function `async` and apply the `await` keyword before the `updateDoc()` function call.
 
 Note that we can optionally rewrite the above function like so:
 

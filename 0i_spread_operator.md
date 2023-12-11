@@ -110,7 +110,7 @@ In this example, we omit the empty object `{}`. However, it is fairly common to 
 
 ### Issues with Copying JavaScript Objects
 
-We want to copy objects in functional programming so our code remains immutable. Each time we modify a variable, we are introducting mutability into our application. Copying objects into other constants ensures that each variable is immutable.
+We want to copy objects in functional programming so our code remains immutable. Each time we modify a variable, we are introducing mutability into our application. Copying objects into other constants ensures that each variable is immutable.
 
 There's just one problem: these methods create a **shallow clone** of objects. That means that they don't actually create a new object in memory; they are still referencing the original object. In order for our applications to be truly immutable, we need to create a **deep clone** of objects. Unfortunately, JavaScript doesn't have native support for deep clones. Instead, we need to use an awkward combination of methods or an external library to do that. We will cover this in a future lesson.
 

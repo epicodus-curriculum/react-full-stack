@@ -55,10 +55,6 @@ lessons:
     filename: 0m_adding_redux_to_react_part_3.md
     day: weekend
     type: lesson
-  - title: Capstone Sign-Up Reminder
-    filename: 0n_capstone_proposal_reminder.md
-    day: weekend
-    type: lesson
   - title: 'Journal #10 Prompt'
     filename: 1_week_ten_prompt.md
     day: weekend

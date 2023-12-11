@@ -10,17 +10,15 @@ We've added a picture of tickets to our application as the image below shows:
 
 It's not a stylistically impressive site — but it'll do for learning purposes.
 
-In MVC applications such as Rails or .NET, it's common to use a public folder for static assets like images. For .NET, that folder is `wwwroot`. Traditionally, Rails applications used a `public` directory, though Rails now uses a different directory for static assets. Based on that, it may seem like we should do the same with a React application that uses `create-react-app`. After all, `create-react-app` automatically creates a `public` directory in the top level of a `create-react-app` project — and to make matters more confusing, it automatically ships with several image files.
-
-However, we should _not_ use the `public` directory for most images. This is clear if we look at the `create-react-app` documentation on [Using the Public Folder](https://create-react-app.dev/docs/using-the-public-folder/). According to this doc:
+If you're already familiar with some backend web frameworks you might be tempted to place image files in the `public` directory created by `create-react-app`. However, we should _not_ use the `public` directory for most images. This is clear if we look at the `create-react-app` documentation on [Using the Public Folder](https://create-react-app.dev/docs/using-the-public-folder/). According to this doc:
 
 > Note that we normally encourage you to import assets in JavaScript files... This mechanism provides a number of benefits.
 
-The biggest benefit is that webpack will minify and bundle our assets as long as we are within the module system. But what does it even mean to be within the module system? Well, what does webpack bundle in a `create-react-app` application (or even a basic JS application that uses webpack)? The `src` directory. In order to benefit from bundling, our images need to be stored in the `src` directory. We definitely want that benefit because it will make our code more efficient in the browser.
+The biggest benefit is that webpack will minify and bundle our assets. In order to benefit from bundling, our images need to be stored in the `src` directory. We definitely want that benefit because it will make our code more efficient in the browser.
 
 There's another huge benefit of storing files such as images in the `src` directory. Let's say we use the `public` directory for an image but that image is missing. We'll just get a broken image link in our application. It's really easy to miss a broken image or another missing file because our application won't throw any errors. We likely won't notice unless we look at the application in the browser. However, when these files are stored in `src` and combined with `import` statements, they will throw errors in compilation so we can fix them immediately.
 
-In fact, if we try to use images stored in the `public` directory, `create-react-app` won't even let us. We'll get the following error: `Relative imports outside of src/ are not supported.`. There are ways around this — and there are special use cases when a developer might need to use the `public` directory for static assets. After all, that's why the directory is there. However, we don't have any special use cases — we just want to add images to our application.
+If we try to use images stored in the `public` directory, `create-react-app` won't even let us. We'll get the following error: `Relative imports outside of src/ are not supported.`. There are ways around this — and there are special use cases when a developer might need to use the `public` directory for static assets. After all, that's why the directory is there. However, we don't have any special use cases — we just want to add images to our application.
 
 So instead of using the `public` directory, create an `img` directory (or a similarly named directory) in `src` instead. Go ahead and save any photos you want to use in that directory. For the image above, we've saved an image called `tickets.png` in a directory called `img`.
 
