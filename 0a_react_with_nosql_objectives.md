@@ -36,12 +36,10 @@ We'll also cover these additional topics:
 ## Independent Project Objectives
 ---
 
-You will not be expected to incorporate the concepts of this section into your independent project. Instead, your next independent project will be devoted to working on your capstone project. Your code will be reviewed for the following objectives:
+For this course section, the independent project will be different from previous weeks. You will spend your normally scheduled independent project time studying for a whiteboard technical interview. Then, you will take part in a whiteboard technical interview with your peers. You will submit peer evaluations for the technical interviews you participate in and also submit your whiteboard solution in lieu of the usual independent project. More details on technical whiteboarding will be provided in this weekend's homework.
 
-* Project commit history demonstrates a full session of work.
-  *  For full-time students, we require 8 hours. 
-  *  For part-time students, we require 4 hours.
-* Project includes capstone proposal.
-* README includes an overview of the project.
+This course section's group whiteboard interview will be reviewed for the following objectives:
 
-**You can preview the exact instructions and requirements for the React with NoSQL code review by reading the [React with NoSQL Independent Project](/react/react-with-nosql-part-2/react-with-nosql-independent-project) lesson at the end of this section.**
+- Whiteboard solution has been submitted.
+- Whiteboard interview meets all requirements (based on peer feedback).
+- Your evaluations for peers are complete and include constructive feedback.

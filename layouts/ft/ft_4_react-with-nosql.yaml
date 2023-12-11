@@ -88,8 +88,8 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
-  - title: 'Journal #10'
-    filename: 1_week_18_prompt.md
+  - title: 'Journal #11'
+    filename: 1_week_eleven_prompt.md
     day: weekend
     type: lesson
     repo: career-services-full-stack
@@ -98,8 +98,8 @@ lessons:
     day: monday
     type: lesson
     repo: pre-work-full-stack
-  - title: 'Journal #10 Discussion'
-    filename: 2_week_18_discussion_classwork.md
+  - title: 'Journal #11 Discussion'
+    filename: 2_week_eleven_discussion_classwork.md
     day: monday
     type: exercise
     repo: career-services-full-stack
