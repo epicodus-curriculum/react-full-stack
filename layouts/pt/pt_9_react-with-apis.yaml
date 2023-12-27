@@ -3,11 +3,11 @@ order: 10
 repo: react-full-stack
 directory: 10_react-with-apis
 lessons:
-  - title: APIs and Full Stack Development Objectives
+  - title: React with APIs Objectives
     filename: 0a_react_with_apis_objectives.md
     day: weekend
     type: lesson
-  - title: Full Stack Development Project
+  - title: React with APIs Development Project
     filename: 0b_fullstack_development.md
     day: weekend
     type: lesson

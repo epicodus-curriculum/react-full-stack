@@ -1,4 +1,4 @@
-**Goals:** Build a React application that makes API calls. Follow along with the weekend lessons to make an API call with the `useReducer()` hook, and then a light/dark theme with context. Then spend the remaining class sessions building out an API project with your pair or group. This project will combine a React front end with an API from your back end language class.
+**Goals:** Build a React application that makes API calls. Follow along with the weekend lessons to make an API call with the `useReducer()` hook, and then a light/dark theme with context. Then spend the remaining class sessions building out a project with your pair or group. This project will utilize your skills with React to consume any API of your choosing.
 
 ## Warm Up
 ---
@@ -18,7 +18,7 @@ Work through the weekend homework to make a React application that makes an API 
 
 ### Full Stack Project
 
-Spend the next three class sessions building a React application around an API built during your back end language class. You may create any type of application as long as it uses the following:
+Spend the next three class sessions building a React application around an API of your choosing. You may create any type of application as long as it uses the following:
 
 * React
 * React hooks to manage state
@@ -26,10 +26,11 @@ Spend the next three class sessions building a React application around an API b
 
 **Note:** If you wish, you may also try React Native, which is designed for mobile development. See the upcoming homework if you are interested.
 
+For a starting list of potential APIs to choose from, take a look at this [repository containing public APIs](https://github.com/public-apis/public-apis).
+
 ## Peer Code Review
 ---
 
-* Back end API works correctly.
 * Application parses API response and displays response data in the UI.
 * State is managed with hooks.
-* Front and back end have their own repositories and detailed READMEs with local deployment instructions and links to other repos related to the project.
+* React application has detailed README with local deployment instructions and links to other repos related to the project if applicable.
