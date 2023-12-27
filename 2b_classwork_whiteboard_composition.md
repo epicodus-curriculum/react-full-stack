@@ -32,13 +32,13 @@ Compose a function called `sound()`. You should be able to add the following fun
 
 #### Problem #3
 
-Compose a function called `throw()`. The `throw()` function should determine the `distance` and `speed` a battle robot can throw a spear. This function should be unary, so you will need to use currying.
+Compose a function called `toss()`. The `toss()` function should determine the `distance` and `speed` a battle robot can toss a spear. This function should be unary, so you will need to use currying.
 
-Next, add the `throw()` function to multiple battle robots. A result might look something like this:
+Next, add the `toss()` function to multiple battle robots. A result might look something like this:
 
 ```js
-> battleRobot1.throw();
-"The battle robot throws the spear 100 yards at 200 miles per hour!"
+> battleRobot1.toss();
+"The battle robot tosses the spear 100 yards at 200 miles per hour!"
 ```
 
 #### Problem #4
