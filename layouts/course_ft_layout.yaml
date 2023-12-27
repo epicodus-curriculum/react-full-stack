@@ -64,7 +64,9 @@ code_reviews:
       visible_class_week: 5
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/react/5_cr_react_with_apis_update_portfolio.md
       objectives:
-      - Still WIP
+      - The project demonstrates a best effort of creating or starting a portfolio project
+      - The README contains accurate information for the project in the state that it is submitted in
+      - The hours worked quantifiably reflect the baseline project requirements
     - title: Team Week
       visible_class_week: 6
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/shared/team_week_cr.md
