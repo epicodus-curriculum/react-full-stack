@@ -89,25 +89,12 @@ lessons:
     type: lesson
   - title: 'Further Exploration: Animations with React'
     filename: 2c_further_exploration_ui_animations_and_interactivity.md
-    day: tuesday
+    day: wednesday
     type: lesson
   - title: 'Technical Interview Practice: APIs and Further Exploration'
     filename: 3a_technical_interview_practice_apis_and_further_exploration_classwork.md
-    day: wednesday
-    type: exercise
-  - title: Researching Internship Companies
-    filename: 3b_career_prep_homework.md
-    day: wednesday
-    type: lesson
-  - title: Professional Development Day
-    filename: 4a_classwork_professional_development_day.md
     day: thursday
     type: exercise
-  - title: Preparing For and Ranking Internships
-    filename: 2_classwork_ranking_internship_companies.md
-    day: thursday
-    type: exercise
-    repo: career-services-full-stack
   - title: Friday Capstone Day
     filename: 5a_react_with_apis_capstone_work.md
     day: thursday
