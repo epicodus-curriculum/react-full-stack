@@ -28,7 +28,7 @@ Our application will have two components: `App.js` and `TopStories.js`. The `Top
 We'll add both `App.js` and `TopStories.js` to a `components/` folder. Their file paths will look like this:
 
 * `react-with-api/src/components/App.js`
-* `react-with-api/src/copmonents/TopStories.js`
+* `react-with-api/src/components/TopStories.js`
 
 That means we'll need to update the import for `App.js` in `index.js` to the following:
 

@@ -26,7 +26,7 @@ Note that it's important to use the version pinned in this lesson. Because Fireb
 First, head on over to your Help Queue project settings in Firebase to get the Firebase configuration settings. From the project homepage, select the cog icon at the top-left of the screen, select _Project settings_, and scroll down until you find the help-queue-web app that we created in the last lesson. In this section, you'll find a code snippet that has a `firebaseConfig` variable that looks something like this:
 
 ```js
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "YOUR-UNIQUE-CREDENTIALS",
   authDomain: "YOUR-PROJECT-NAME.firebaseapp.com",
   projectId: "YOUR-UNIQUE-PROJECT-NAME",
