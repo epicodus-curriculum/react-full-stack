@@ -119,30 +119,10 @@ lessons:
     day: wednesday
     type: lesson
     repo: career-services-full-stack
-  - title: Applying for Jobs
-    filename: classwork_applying_for_jobs.md
-    day: thursday
-    type: exercise
-    repo: career-services-full-stack
   - title: 'Technical Interview Preparation: React Fundamentals'
     filename: 4b_classwork_technical_interview_prep_react_fundamentals.md
     day: thursday
     type: exercise
-  - title: Following Up During the Job Application Process
-    filename: 6_Follow-Up_During_the_Job_Application_Process.md
-    day: thursday
-    type: lesson
-    repo: career-services-full-stack
-  - title: Expand Your Job Search Network Through Cold Emailing
-    filename: 7_Expand_your_Job_Search_Network_through_Cold_Emailing.md
-    day: thursday
-    type: lesson
-    repo: career-services-full-stack
-  - title: Tools for Email Management
-    filename: 8_Tools_for_Email_Management.md
-    day: thursday
-    type: lesson
-    repo: career-services-full-stack
   - title: UUID Library
     filename: 2ab_uuid_library.md
     day: thursday
