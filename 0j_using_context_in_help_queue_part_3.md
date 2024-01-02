@@ -386,7 +386,7 @@ At this point the functionality for toggling between a light and a dark theme is
 
 ### Leveraging the Default Context Value for Consumer Error Handling
 
-We need to remember that we cannot consume context data outside of a provider component. That means if we add a context consumer to a part of our component tree that does not have a provider component upstream from the consumer component, our code will break. We can try this out by moving `<TicketControl>` outside of the `<ThemeContext.Prodiver>` components in `App.js`:
+We need to remember that we cannot consume context data outside of a provider component. That means if we add a context consumer to a part of our component tree that does not have a provider component upstream from the consumer component, our code will break. We can try this out by moving `<TicketControl>` outside of the `<ThemeContext.Provider>` components in `App.js`:
 
 <div class="filename">src/components/App.js</div>
 

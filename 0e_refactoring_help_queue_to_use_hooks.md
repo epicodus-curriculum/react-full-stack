@@ -289,7 +289,7 @@ function TicketControl() {
 export default TicketControl;
 ```
 
-### Updating the `formVisibleOnPage` State
+### Updating the `selectedTicket` and `editing` State
 
 We'll finish our refactor to using the `useState` hook by updating the remaining `selectedTicket` and `editing` state slices. The process is exactly the same as with `mainTicketList` and `formVisibleOnPage`. In one case, we'll need to update a variable called `selectedTicket` to `selection` in order to not clash with our state variables. As you read through the updated code below, pay attention to the comments.
 

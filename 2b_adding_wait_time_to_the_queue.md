@@ -187,7 +187,7 @@ function TicketControl() {
   ...
 
   useEffect(() => {
-    function updateTicketElapsedWaitTime() {
+    function updateTicketWaitTime() {
       const newMainTicketList = mainTicketList.map(ticket => {
         const newFormattedWaitTime = formatDistanceToNow(ticket.timeOpen);
         return {...ticket, formattedWaitTime: newFormattedWaitTime};
@@ -196,7 +196,7 @@ function TicketControl() {
     }
 
     const waitTimeUpdateTimer = setInterval(() =>
-      updateTicketElapsedWaitTime(), 
+      updateTicketWaitTime(), 
       60000
     );
 
